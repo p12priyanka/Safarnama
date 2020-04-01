@@ -1,0 +1,130 @@
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Recipes.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Recipes.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Recipes.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Autofac.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\log4net.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Microsoft.Web.Infrastructure.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.ContentTypes.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Framework.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Packaging.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Helpers.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Mvc.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.WebPages.Deployment.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.WebPages.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.WebPages.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Http.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Owin.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Microsoft.Owin.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Castle.Core.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\NHibernate.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\FluentNHibernate.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\NHibernate.Linq.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Newtonsoft.Json.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Http.WebHost.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Autofac.Configuration.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Themes.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\NuGet.Core.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Modules.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Net.Http.Formatting.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Iesi.Collections.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Framework.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Framework.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.ContentTypes.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.ContentTypes.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Packaging.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Packaging.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Autofac.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\log4net.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Helpers.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Mvc.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.WebPages.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.WebPages.Deployment.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.WebPages.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Http.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Microsoft.Owin.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Castle.Core.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\NHibernate.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\FluentNHibernate.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\FluentNHibernate.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Newtonsoft.Json.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Http.WebHost.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Autofac.Configuration.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Themes.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Themes.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Modules.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Modules.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Net.Http.Formatting.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Iesi.Collections.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\obj\Debug\Orchard.Recipes.csprojAssemblyReference.cache
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\obj\Debug\Orchard.Recipes.csproj.CopyComplete
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\obj\Debug\Orchard.Recipes.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\obj\Debug\Orchard.Recipes.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Recipes.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Recipes.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Recipes.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Autofac.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\log4net.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Microsoft.Web.Infrastructure.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.ContentTypes.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Framework.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Packaging.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Helpers.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Mvc.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.WebPages.Deployment.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.WebPages.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.WebPages.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Http.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Owin.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Microsoft.Owin.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Castle.Core.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\NHibernate.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\FluentNHibernate.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\NHibernate.Linq.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Newtonsoft.Json.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Http.WebHost.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Autofac.Configuration.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Themes.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\NuGet.Core.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Modules.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Net.Http.Formatting.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Iesi.Collections.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Framework.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Framework.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.ContentTypes.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.ContentTypes.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Packaging.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Packaging.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Autofac.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\log4net.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Helpers.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Mvc.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.WebPages.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.WebPages.Deployment.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.WebPages.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Http.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Microsoft.Owin.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Castle.Core.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\NHibernate.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\FluentNHibernate.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\FluentNHibernate.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Newtonsoft.Json.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Web.Http.WebHost.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Autofac.Configuration.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Themes.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Themes.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Modules.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Orchard.Modules.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\System.Net.Http.Formatting.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\bin\Iesi.Collections.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\obj\Debug\Orchard.Recipes.csprojAssemblyReference.cache
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\obj\Debug\Orchard.Recipes.csproj.CopyComplete
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\obj\Debug\Orchard.Recipes.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Recipes\obj\Debug\Orchard.Recipes.pdb

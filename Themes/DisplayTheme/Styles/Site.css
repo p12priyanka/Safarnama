@@ -1,0 +1,184 @@
+/*
+Theme: My First Theme
+Author: 
+Copyright: 
+*/
+
+/* Colors Palette
+Background: #d3d3d3
+Text: #000
+Main Accent: #999
+Links: #c03
+*/
+
+
+
+/* Reset
+***************************************************************/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+
+header, footer, aside, nav, article {
+    display: block;
+}
+
+/* Clearing Float
+***************************************************************/
+group:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.group {
+    display: inline-block;
+}
+/* for IE/Mac */
+
+/* General
+***************************************************************/
+body {
+    font: normal 100% Segoe UI,Trebuchet,Arial,Sans-Serif;
+    height: 100%;
+    text-align: left;
+    color: #000;
+    background: #fff;
+}
+
+
+/* Headings */
+h1, h2, h3, h4, h5, h6, legend {
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-size: 160%;
+}
+
+h2 {
+    font-size: 145%;
+}
+
+h3 {
+    font-size: 130%;
+}
+
+h4 {
+    font-size: 120%;
+}
+
+h5 {
+    font-size: 105%;
+}
+
+p {
+    margin: 0 0 1em;
+    line-height: 1.538em;
+}
+
+    p img.left {
+        float: left;
+        margin: 0.923em 0.923em 0.923em 0;
+        padding: 0;
+    }
+
+    p img.right {
+        float: right;
+        margin: 0.923em 0 0.923em 0.923em;
+    }
+
+a:focus,
+a:hover {
+    text-decoration: underline;
+}
+
+a {
+    color: #c03;
+    text-decoration: none;
+}
+
+#header {
+    background: #000;
+    color: #000;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 40px;
+}
+
+#branding h1 {
+    font-size: 140%;
+    color: #fff;
+    padding: 8px 0 0 40px;
+}
+
+/* Structure
+***************************************************************/
+#layout-navigation {
+    width: 960px;
+    margin: 0 auto;
+    display: block;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+nav ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+    nav ul li {
+        border: 1px solid #dbdbdb;
+        background: #f6f6f6;
+        display: block;
+        float: left;
+        margin: 0 2px -1px 0;
+    }
+
+        nav ul li.current {
+            border-bottom: 1px solid #fff;
+            background: #fff;
+        }
+
+    nav ul a {
+        padding: 0 18px;
+        display: block;
+        float: left;
+        color: #333;
+        font-size: 1.077em;
+        text-decoration: none;
+        line-height: 24px;
+    }
+
+/* Main
+***************************************************************/
+#main {
+    margin: 0 auto 40px;
+    width: 600px;
+}
+
+/* Secondary
+***************************************************************/
+
+/* Forms
+***************************************************************/
+
+/* Misc
+***************************************************************/

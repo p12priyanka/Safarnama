@@ -1,0 +1,127 @@
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.JobsQueue.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.JobsQueue.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.JobsQueue.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Microsoft.Web.Infrastructure.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Newtonsoft.Json.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Core.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Forms.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Framework.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Workflows.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Helpers.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Mvc.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.WebPages.Deployment.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.WebPages.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.WebPages.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Http.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Autofac.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Owin.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Microsoft.Owin.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\log4net.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Castle.Core.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\NHibernate.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\FluentNHibernate.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\NHibernate.Linq.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Http.WebHost.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Autofac.Configuration.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Tokens.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Net.Http.Formatting.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Iesi.Collections.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Framework.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Framework.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Core.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Core.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Forms.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Forms.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Workflows.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Workflows.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Newtonsoft.Json.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Helpers.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Mvc.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.WebPages.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.WebPages.Deployment.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.WebPages.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Http.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Autofac.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Microsoft.Owin.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\log4net.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Castle.Core.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\NHibernate.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\FluentNHibernate.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\FluentNHibernate.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Http.WebHost.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Autofac.Configuration.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Tokens.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Tokens.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Net.Http.Formatting.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Iesi.Collections.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\obj\Debug\Orchard.JobsQueue.csproj.CopyComplete
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\obj\Debug\Orchard.JobsQueue.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\obj\Debug\Orchard.JobsQueue.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.JobsQueue.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.JobsQueue.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.JobsQueue.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Microsoft.Web.Infrastructure.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Newtonsoft.Json.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Core.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Forms.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Framework.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Workflows.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Helpers.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Mvc.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.WebPages.Deployment.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.WebPages.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.WebPages.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Http.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Autofac.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Owin.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Microsoft.Owin.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\log4net.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Castle.Core.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\NHibernate.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\FluentNHibernate.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\NHibernate.Linq.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Http.WebHost.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Autofac.Configuration.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Tokens.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Net.Http.Formatting.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Iesi.Collections.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Framework.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Framework.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Core.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Core.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Forms.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Forms.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Workflows.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Workflows.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Newtonsoft.Json.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Helpers.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Mvc.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.WebPages.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.WebPages.Deployment.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.WebPages.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Http.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Autofac.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Microsoft.Owin.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\log4net.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Castle.Core.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\NHibernate.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\FluentNHibernate.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\FluentNHibernate.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Web.Http.WebHost.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Autofac.Configuration.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Tokens.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Tokens.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Net.Http.Formatting.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Iesi.Collections.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\obj\Debug\Orchard.JobsQueue.csprojAssemblyReference.cache
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\obj\Debug\Orchard.JobsQueue.csproj.CopyComplete
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\obj\Debug\Orchard.JobsQueue.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\obj\Debug\Orchard.JobsQueue.pdb

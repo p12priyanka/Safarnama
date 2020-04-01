@@ -1,0 +1,8 @@
+Name: MyTheme
+Author: The Orchard Team
+Website: https://www.orchardproject.net
+Description: Description for the theme
+Version: 1.0
+BaseTheme: Terra
+# todo: provide tags
+# Tags: Classic, Serif

@@ -1,0 +1,12 @@
+2020-04-01 09:46:12,460 [11] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-04-01 09:46:12,495 [11] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-04-01 09:46:13,442 [11] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-04-01 10:43:58,882 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-04-01 10:43:58,950 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-04-01 10:44:00,172 [10] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-04-01 15:40:25,324 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-04-01 15:40:25,479 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-04-01 15:40:27,794 [8] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-04-01 17:49:41,375 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-04-01 17:49:41,496 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-04-01 17:49:43,579 [1] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"

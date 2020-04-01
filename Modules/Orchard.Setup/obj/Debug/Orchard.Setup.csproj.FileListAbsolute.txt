@@ -1,0 +1,80 @@
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Setup.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Setup.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Setup.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Autofac.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Microsoft.Web.Infrastructure.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Recipes.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Themes.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Helpers.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Mvc.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.Deployment.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.ContentTypes.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Packaging.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\NuGet.Core.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Modules.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Recipes.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Recipes.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Themes.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Themes.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Autofac.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Helpers.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Mvc.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.Deployment.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.ContentTypes.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.ContentTypes.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Packaging.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Packaging.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Modules.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Modules.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\obj\Debug\Orchard.Setup.csprojAssemblyReference.cache
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\obj\Debug\Orchard.Setup.csproj.CopyComplete
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\obj\Debug\Orchard.Setup.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\obj\Debug\Orchard.Setup.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Setup.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Setup.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Setup.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Autofac.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Microsoft.Web.Infrastructure.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Recipes.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Themes.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Helpers.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Mvc.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.Deployment.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.ContentTypes.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Packaging.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\NuGet.Core.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Modules.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Recipes.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Recipes.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Themes.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Themes.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Autofac.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Helpers.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Mvc.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.Deployment.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\System.Web.WebPages.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.ContentTypes.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.ContentTypes.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Packaging.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Packaging.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Modules.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\bin\Orchard.Modules.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\obj\Debug\Orchard.Setup.csprojAssemblyReference.cache
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\obj\Debug\Orchard.Setup.csproj.CopyComplete
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\obj\Debug\Orchard.Setup.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Setup\obj\Debug\Orchard.Setup.pdb

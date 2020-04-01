@@ -1,0 +1,116 @@
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Taxonomies.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Taxonomies.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Taxonomies.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Iesi.Collections.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Microsoft.Web.Infrastructure.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Newtonsoft.Json.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\NHibernate.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Alias.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Autoroute.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Localization.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Tokens.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Net.Http.Formatting.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.Helpers.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.Http.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.Mvc.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.WebPages.Deployment.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.WebPages.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.WebPages.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.ContentTypes.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\MSTranslitTools.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Themes.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Packaging.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\NuGet.Core.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Modules.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Alias.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Alias.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Autoroute.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Autoroute.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Localization.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Localization.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Tokens.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Tokens.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Iesi.Collections.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Newtonsoft.Json.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\NHibernate.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Net.Http.Formatting.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.Helpers.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.Http.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.Mvc.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.WebPages.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.WebPages.Deployment.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.WebPages.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.ContentTypes.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.ContentTypes.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Themes.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Themes.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Packaging.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Packaging.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Modules.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Modules.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\obj\Debug\Orchard.Taxonomies.csprojAssemblyReference.cache
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\obj\Debug\Orchard.Taxonomies.csproj.CopyComplete
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\obj\Debug\Orchard.Taxonomies.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\obj\Debug\Orchard.Taxonomies.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Taxonomies.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Taxonomies.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Taxonomies.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Iesi.Collections.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Microsoft.Web.Infrastructure.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Newtonsoft.Json.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\NHibernate.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Alias.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Autoroute.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Localization.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Tokens.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Net.Http.Formatting.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.Helpers.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.Http.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.Mvc.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.WebPages.Deployment.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.WebPages.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.WebPages.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.ContentTypes.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\MSTranslitTools.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Themes.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Packaging.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\NuGet.Core.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Modules.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Alias.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Alias.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Autoroute.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Autoroute.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Localization.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Localization.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Tokens.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Tokens.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Iesi.Collections.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Newtonsoft.Json.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\NHibernate.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Net.Http.Formatting.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.Helpers.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.Http.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.Mvc.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.WebPages.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.WebPages.Deployment.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\System.Web.WebPages.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.ContentTypes.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.ContentTypes.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Themes.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Themes.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Packaging.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Packaging.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Modules.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\bin\Orchard.Modules.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\obj\Debug\Orchard.Taxonomies.csprojAssemblyReference.cache
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\obj\Debug\Orchard.Taxonomies.csproj.CopyComplete
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\obj\Debug\Orchard.Taxonomies.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Taxonomies\obj\Debug\Orchard.Taxonomies.pdb

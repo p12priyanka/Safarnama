@@ -1,0 +1,42 @@
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\Orchard.ContentPreview.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\Orchard.ContentPreview.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\Orchard.ContentPreview.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\Microsoft.Web.Infrastructure.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.Helpers.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.Mvc.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.WebPages.Deployment.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.WebPages.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.WebPages.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.Helpers.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.Mvc.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.WebPages.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.WebPages.Deployment.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.WebPages.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\obj\Debug\Orchard.ContentPreview.csproj.CopyComplete
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\obj\Debug\Orchard.ContentPreview.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\obj\Debug\Orchard.ContentPreview.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\Orchard.ContentPreview.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\Orchard.ContentPreview.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\Orchard.ContentPreview.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\Microsoft.Web.Infrastructure.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.Helpers.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.Mvc.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.WebPages.Deployment.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.WebPages.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.WebPages.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.Helpers.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.Mvc.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.WebPages.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.WebPages.Deployment.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\bin\System.Web.WebPages.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\obj\Debug\Orchard.ContentPreview.csproj.CopyComplete
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\obj\Debug\Orchard.ContentPreview.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.ContentPreview\obj\Debug\Orchard.ContentPreview.pdb

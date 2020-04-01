@@ -1,0 +1,1057 @@
+2020-03-31 10:20:14,677 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 10:20:14,799 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 10:20:16,168 [7] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-31 10:20:40,613 [7] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:20:40,670 [7] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:21:00,531 [7] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:21:00,535 [7] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:21:02,893 [7] Orchard.Environment.DefaultBuildManager - Default - WARN Error when compiling assembly under ~/Modules/Bing.Maps/Bing.Maps.csproj.
+System.Web.HttpParseException (0x80004005): Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 106
+   --- End of inner exception stack trace ---
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 116
+   at Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim.GenerateCode(AssemblyBuilder assemblyBuilder) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\CSharpExtensionBuildProviderShim.cs:line 31
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetCompiledAssembly(String virtualPath)
+   at Orchard.Environment.DefaultBuildManager.GetCompiledAssembly(String virtualPath) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IBuildManager.cs:line 53
+2020-03-31 10:21:04,417 [7] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:21:04,420 [7] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:21:12,166 [7] Orchard.Environment.DefaultBuildManager - Default - WARN Error when compiling assembly under ~/Modules/Bing.Maps/Bing.Maps.csproj.
+System.Web.HttpParseException (0x80004005): Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 106
+   --- End of inner exception stack trace ---
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 116
+   at Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim.GenerateCode(AssemblyBuilder assemblyBuilder) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\CSharpExtensionBuildProviderShim.cs:line 31
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetCompiledAssembly(String virtualPath)
+   at Orchard.Environment.DefaultBuildManager.GetCompiledAssembly(String virtualPath) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IBuildManager.cs:line 53
+2020-03-31 10:21:12,339 [7] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:21:12,342 [7] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:21:12,724 [7] Orchard.Environment.DefaultBuildManager - Default - WARN Error when compiling assembly under ~/Modules/Bing.Maps/Bing.Maps.csproj.
+System.Web.HttpParseException (0x80004005): Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 106
+   --- End of inner exception stack trace ---
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 116
+   at Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim.GenerateCode(AssemblyBuilder assemblyBuilder) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\CSharpExtensionBuildProviderShim.cs:line 31
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetCompiledAssembly(String virtualPath)
+   at Orchard.Environment.DefaultBuildManager.GetCompiledAssembly(String virtualPath) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IBuildManager.cs:line 53
+2020-03-31 10:21:13,210 [7] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:21:13,213 [7] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:21:14,623 [7] Orchard.Environment.DefaultBuildManager - Default - WARN Error when compiling assembly under ~/Modules/Bing.Maps/Bing.Maps.csproj.
+System.Web.HttpParseException (0x80004005): Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 106
+   --- End of inner exception stack trace ---
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 116
+   at Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim.GenerateCode(AssemblyBuilder assemblyBuilder) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\CSharpExtensionBuildProviderShim.cs:line 31
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetCompiledAssembly(String virtualPath)
+   at Orchard.Environment.DefaultBuildManager.GetCompiledAssembly(String virtualPath) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IBuildManager.cs:line 53
+2020-03-31 10:22:26,267 [18] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:22:26,270 [18] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:22:28,898 [18] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:22:28,901 [18] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:22:29,887 [18] Orchard.Environment.DefaultBuildManager - Default - WARN Error when compiling assembly under ~/Modules/Bing.Maps/Bing.Maps.csproj.
+System.Web.HttpParseException (0x80004005): Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 106
+   --- End of inner exception stack trace ---
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 116
+   at Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim.GenerateCode(AssemblyBuilder assemblyBuilder) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\CSharpExtensionBuildProviderShim.cs:line 31
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetCompiledAssembly(String virtualPath)
+   at Orchard.Environment.DefaultBuildManager.GetCompiledAssembly(String virtualPath) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IBuildManager.cs:line 53
+2020-03-31 10:22:30,166 [18] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:22:30,170 [18] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:22:30,765 [18] Orchard.Environment.DefaultBuildManager - Default - WARN Error when compiling assembly under ~/Modules/Bing.Maps/Bing.Maps.csproj.
+System.Web.HttpParseException (0x80004005): Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 106
+   --- End of inner exception stack trace ---
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 116
+   at Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim.GenerateCode(AssemblyBuilder assemblyBuilder) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\CSharpExtensionBuildProviderShim.cs:line 31
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetCompiledAssembly(String virtualPath)
+   at Orchard.Environment.DefaultBuildManager.GetCompiledAssembly(String virtualPath) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IBuildManager.cs:line 53
+2020-03-31 10:22:31,047 [18] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:22:31,051 [18] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:22:31,885 [18] Orchard.Environment.DefaultBuildManager - Default - WARN Error when compiling assembly under ~/Modules/Bing.Maps/Bing.Maps.csproj.
+System.Web.HttpParseException (0x80004005): Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 106
+   --- End of inner exception stack trace ---
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 116
+   at Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim.GenerateCode(AssemblyBuilder assemblyBuilder) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\CSharpExtensionBuildProviderShim.cs:line 31
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetCompiledAssembly(String virtualPath)
+   at Orchard.Environment.DefaultBuildManager.GetCompiledAssembly(String virtualPath) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IBuildManager.cs:line 53
+2020-03-31 10:22:32,188 [18] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:22:32,191 [18] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:22:33,162 [18] Orchard.Environment.DefaultBuildManager - Default - WARN Error when compiling assembly under ~/Modules/Bing.Maps/Bing.Maps.csproj.
+System.Web.HttpParseException (0x80004005): Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 106
+   --- End of inner exception stack trace ---
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 116
+   at Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim.GenerateCode(AssemblyBuilder assemblyBuilder) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\CSharpExtensionBuildProviderShim.cs:line 31
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetCompiledAssembly(String virtualPath)
+   at Orchard.Environment.DefaultBuildManager.GetCompiledAssembly(String virtualPath) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IBuildManager.cs:line 53
+2020-03-31 10:22:33,386 [18] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:22:33,390 [18] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:22:34,363 [18] Orchard.Environment.DefaultBuildManager - Default - WARN Error when compiling assembly under ~/Modules/Bing.Maps/Bing.Maps.csproj.
+System.Web.HttpParseException (0x80004005): Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 106
+   --- End of inner exception stack trace ---
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 116
+   at Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim.GenerateCode(AssemblyBuilder assemblyBuilder) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\CSharpExtensionBuildProviderShim.cs:line 31
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetCompiledAssembly(String virtualPath)
+   at Orchard.Environment.DefaultBuildManager.GetCompiledAssembly(String virtualPath) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IBuildManager.cs:line 53
+2020-03-31 10:22:34,569 [18] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:22:34,573 [18] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:22:35,576 [18] Orchard.Environment.DefaultBuildManager - Default - WARN Error when compiling assembly under ~/Modules/Bing.Maps/Bing.Maps.csproj.
+System.Web.HttpParseException (0x80004005): Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 106
+   --- End of inner exception stack trace ---
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 116
+   at Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim.GenerateCode(AssemblyBuilder assemblyBuilder) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\CSharpExtensionBuildProviderShim.cs:line 31
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetCompiledAssembly(String virtualPath)
+   at Orchard.Environment.DefaultBuildManager.GetCompiledAssembly(String virtualPath) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IBuildManager.cs:line 53
+2020-03-31 10:22:35,803 [18] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:22:35,806 [18] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:22:36,793 [18] Orchard.Environment.DefaultBuildManager - Default - WARN Error when compiling assembly under ~/Modules/Bing.Maps/Bing.Maps.csproj.
+System.Web.HttpParseException (0x80004005): Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 106
+   --- End of inner exception stack trace ---
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 116
+   at Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim.GenerateCode(AssemblyBuilder assemblyBuilder) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\CSharpExtensionBuildProviderShim.cs:line 31
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetCompiledAssembly(String virtualPath)
+   at Orchard.Environment.DefaultBuildManager.GetCompiledAssembly(String virtualPath) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IBuildManager.cs:line 53
+2020-03-31 10:22:36,960 [18] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:22:36,965 [18] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:22:37,272 [18] Orchard.Environment.DefaultBuildManager - Default - WARN Error when compiling assembly under ~/Modules/Bing.Maps/Bing.Maps.csproj.
+System.Web.HttpParseException (0x80004005): Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 106
+   --- End of inner exception stack trace ---
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 116
+   at Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim.GenerateCode(AssemblyBuilder assemblyBuilder) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\CSharpExtensionBuildProviderShim.cs:line 31
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetCompiledAssembly(String virtualPath)
+   at Orchard.Environment.DefaultBuildManager.GetCompiledAssembly(String virtualPath) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IBuildManager.cs:line 53
+2020-03-31 10:22:37,697 [18] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:22:37,701 [18] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:22:38,748 [18] Orchard.Environment.DefaultBuildManager - Default - WARN Error when compiling assembly under ~/Modules/Bing.Maps/Bing.Maps.csproj.
+System.Web.HttpParseException (0x80004005): Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 106
+   --- End of inner exception stack trace ---
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 116
+   at Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim.GenerateCode(AssemblyBuilder assemblyBuilder) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\CSharpExtensionBuildProviderShim.cs:line 31
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetCompiledAssembly(String virtualPath)
+   at Orchard.Environment.DefaultBuildManager.GetCompiledAssembly(String virtualPath) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IBuildManager.cs:line 53
+2020-03-31 10:22:38,922 [18] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:22:38,928 [18] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:22:39,323 [18] Orchard.Environment.DefaultBuildManager - Default - WARN Error when compiling assembly under ~/Modules/Bing.Maps/Bing.Maps.csproj.
+System.Web.HttpParseException (0x80004005): Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 106
+   --- End of inner exception stack trace ---
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 116
+   at Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim.GenerateCode(AssemblyBuilder assemblyBuilder) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\CSharpExtensionBuildProviderShim.cs:line 31
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetCompiledAssembly(String virtualPath)
+   at Orchard.Environment.DefaultBuildManager.GetCompiledAssembly(String virtualPath) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IBuildManager.cs:line 53
+2020-03-31 10:24:35,432 [8] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:24:35,436 [8] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:24:44,353 [8] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:24:44,356 [8] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:24:44,604 [8] Orchard.Environment.DefaultBuildManager - Default - WARN Error when compiling assembly under ~/Modules/Bing.Maps/Bing.Maps.csproj.
+System.Web.HttpParseException (0x80004005): Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 106
+   --- End of inner exception stack trace ---
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 116
+   at Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim.GenerateCode(AssemblyBuilder assemblyBuilder) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\CSharpExtensionBuildProviderShim.cs:line 31
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetCompiledAssembly(String virtualPath)
+   at Orchard.Environment.DefaultBuildManager.GetCompiledAssembly(String virtualPath) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IBuildManager.cs:line 53
+2020-03-31 10:24:44,607 [8] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Bing.Maps"
+2020-03-31 10:24:45,263 [15] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:24:45,269 [15] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:24:46,565 [15] Orchard.Environment.DefaultAssemblyLoader - Default - ERROR Error loading assembly 'System.Web.Services'
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Web.Services' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Web.Services'
+   at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at Orchard.Environment.DefaultAssemblyLoader.LoadWorker(String shortName, String fullName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 61
+   at Orchard.Environment.DefaultAssemblyLoader.<>c__DisplayClass7_0.<Load>b__0(String shortName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Orchard.Environment.DefaultAssemblyLoader.Load(String assemblyName) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IAssemblyLoader.cs:line 28
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Web.Services
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: System.Web.Services | Domain ID: 2
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///E:/priyanka/New Project/Orchard-dev/Orchard-dev/src/Orchard.Web/
+LOG: Initial PrivatePath = E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\bin
+Calling assembly : Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\web.config
+LOG: Using host configuration file: C:\Users\connekt\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: The same bind was seen before, and was failed with hr = 0x80070002.
+
+2020-03-31 10:24:46,568 [15] Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler - Default - ERROR Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+2020-03-31 10:24:46,901 [15] Orchard.Environment.DefaultBuildManager - Default - WARN Error when compiling assembly under ~/Modules/Bing.Maps/Bing.Maps.csproj.
+System.Web.HttpParseException (0x80004005): Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Error compiling module "Bing.Maps" from file "/Modules/Bing.Maps/Bing.Maps.csproj":
+Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded ---> Orchard.OrchardCoreException: Assembly reference 'System.Web.Services' for project '/Modules/Bing.Maps/Bing.Maps.csproj' cannot be loaded
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 106
+   --- End of inner exception stack trace ---
+   at Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler.Compile(CompileExtensionContext context) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\DefaultExtensionCompiler.cs:line 116
+   at Orchard.Environment.Extensions.Compilers.CSharpExtensionBuildProviderShim.GenerateCode(AssemblyBuilder assemblyBuilder) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\Extensions\Compilers\CSharpExtensionBuildProviderShim.cs:line 31
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.AssemblyBuilder.AddBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResult(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetCompiledAssembly(String virtualPath)
+   at Orchard.Environment.DefaultBuildManager.GetCompiledAssembly(String virtualPath) in E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard\Environment\IBuildManager.cs:line 53
+2020-03-31 10:30:47,776 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 10:30:47,820 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 10:30:48,441 [7] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-31 14:55:17,950 [83] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 14:55:18,606 [83] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 14:55:18,608 [83] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 14:55:19,026 [83] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 14:55:19,028 [83] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 14:56:19,117 [59] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 14:56:19,732 [59] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 14:56:19,734 [59] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 14:56:20,107 [59] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 14:56:20,110 [59] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 14:58:53,277 [48] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 14:58:53,279 [48] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 14:58:53,722 [48] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 14:58:53,724 [48] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 15:02:13,840 [59] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 15:02:13,843 [59] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 15:02:14,226 [59] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 15:02:14,228 [59] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 15:11:57,536 [43] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 15:11:57,539 [43] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 15:11:57,930 [43] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 15:11:57,933 [43] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 15:12:03,520 [59] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 15:12:03,523 [59] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 15:12:03,916 [59] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 15:12:03,919 [59] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-31 16:23:36,631 [62] Orchard.Exceptions.DefaultExceptionPolicy - Default - ERROR An unexpected exception was caught
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Orchard.CustomForms.Controllers.ItemController.CreatePOST(Int32 id, Int32 contentId, String returnUrl, Action`1 conditionallyPublish)
+   at Orchard.CustomForms.Controllers.ItemController.CreatePOST(Int32 id, Int32 contentId, String returnUrl)
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()

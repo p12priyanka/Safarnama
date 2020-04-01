@@ -1,0 +1,32 @@
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Orchard.Scripting.Dlr.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Orchard.Scripting.Dlr.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Orchard.Scripting.Dlr.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\IronRuby.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\IronRuby.Libraries.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\IronRuby.Libraries.Yaml.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Microsoft.Dynamic.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Microsoft.Scripting.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Microsoft.Scripting.Metadata.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Orchard.Scripting.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Orchard.Scripting.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Orchard.Scripting.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\obj\Debug\Orchard.Scripting.Dlr.csprojAssemblyReference.cache
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\obj\Debug\Orchard.Scripting.Dlr.csproj.CopyComplete
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\obj\Debug\Orchard.Scripting.Dlr.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\obj\Debug\Orchard.Scripting.Dlr.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Orchard.Scripting.Dlr.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Orchard.Scripting.Dlr.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Orchard.Scripting.Dlr.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\IronRuby.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\IronRuby.Libraries.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\IronRuby.Libraries.Yaml.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Microsoft.Dynamic.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Microsoft.Scripting.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Microsoft.Scripting.Metadata.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Orchard.Scripting.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Orchard.Scripting.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\bin\Orchard.Scripting.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\obj\Debug\Orchard.Scripting.Dlr.csprojAssemblyReference.cache
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\obj\Debug\Orchard.Scripting.Dlr.csproj.CopyComplete
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\obj\Debug\Orchard.Scripting.Dlr.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting.Dlr\obj\Debug\Orchard.Scripting.Dlr.pdb

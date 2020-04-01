@@ -1,0 +1,517 @@
+2020-03-16 15:20:43,647 [5] Orchard.Exceptions.DefaultExceptionPolicy - Default - An unexpected exception was caught [http://localhost:51265/Admin/Themes/Activate]
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Orchard.Themes.Services.ThemeService.EnableThemeFeatures(String themeName) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Services\ThemeService.cs:line 88
+   at Orchard.Themes.Controllers.AdminController.Activate(String themeId) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Controllers\AdminController.cs:line 232
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+2020-03-16 15:21:44,298 [8] Orchard.Exceptions.DefaultExceptionPolicy - Default - An unexpected exception was caught [http://localhost:51265/Admin/Themes/Activate]
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Orchard.Themes.Services.ThemeService.EnableThemeFeatures(String themeName) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Services\ThemeService.cs:line 88
+   at Orchard.Themes.Controllers.AdminController.Activate(String themeId) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Controllers\AdminController.cs:line 232
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+2020-03-16 17:02:27,675 [11] Orchard.Mvc.ViewEngines.ThemeAwareness.ThemeAwareViewEngine - Default - Base theme 'Terra' of theme 'MyTheme' not found in list of features [http://localhost:51265/]
+2020-03-16 17:04:01,946 [7] Orchard.Exceptions.DefaultExceptionPolicy - Default - An unexpected exception was caught [http://localhost:51265/Admin/Themes/Activate]
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Orchard.Themes.Services.ThemeService.EnableThemeFeatures(String themeName) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Services\ThemeService.cs:line 88
+   at Orchard.Themes.Controllers.AdminController.Activate(String themeId) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Controllers\AdminController.cs:line 232
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+2020-03-16 17:04:34,442 [10] Orchard.Exceptions.DefaultExceptionPolicy - Default - An unexpected exception was caught [http://localhost:51265/Admin/Themes/Activate]
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Orchard.Themes.Services.ThemeService.EnableThemeFeatures(String themeName) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Services\ThemeService.cs:line 88
+   at Orchard.Themes.Controllers.AdminController.Activate(String themeId) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Controllers\AdminController.cs:line 232
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+2020-03-16 17:04:43,373 [10] Orchard.Exceptions.DefaultExceptionPolicy - Default - An unexpected exception was caught [http://localhost:51265/Admin/Themes/Activate]
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Orchard.Themes.Services.ThemeService.EnableThemeFeatures(String themeName) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Services\ThemeService.cs:line 88
+   at Orchard.Themes.Controllers.AdminController.Activate(String themeId) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Controllers\AdminController.cs:line 232
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+2020-03-16 17:05:02,713 [12] Orchard.Exceptions.DefaultExceptionPolicy - Default - An unexpected exception was caught [http://localhost:51265/Admin/Themes/Preview]
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Orchard.Themes.Services.ThemeService.EnableThemeFeatures(String themeName) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Services\ThemeService.cs:line 88
+   at Orchard.Themes.Controllers.AdminController.Preview(String themeId, String returnUrl) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Controllers\AdminController.cs:line 138
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+2020-03-16 17:20:42,692 [7] Orchard.Exceptions.DefaultExceptionPolicy - Default - An unexpected exception was caught [http://localhost:51265/Admin/Themes/Preview]
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Orchard.Themes.Services.ThemeService.EnableThemeFeatures(String themeName) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Services\ThemeService.cs:line 88
+   at Orchard.Themes.Controllers.AdminController.Preview(String themeId, String returnUrl) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Controllers\AdminController.cs:line 138
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+2020-03-16 17:21:01,913 [7] Orchard.Exceptions.DefaultExceptionPolicy - Default - An unexpected exception was caught [http://localhost:51265/Admin/Themes/Activate]
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Orchard.Themes.Services.ThemeService.EnableThemeFeatures(String themeName) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Services\ThemeService.cs:line 88
+   at Orchard.Themes.Controllers.AdminController.Activate(String themeId) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Controllers\AdminController.cs:line 232
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+2020-03-16 17:21:25,189 [7] Orchard.Exceptions.DefaultExceptionPolicy - Default - An unexpected exception was caught [http://localhost:51265/Admin/Themes/Preview]
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Orchard.Themes.Services.ThemeService.EnableThemeFeatures(String themeName) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Services\ThemeService.cs:line 88
+   at Orchard.Themes.Controllers.AdminController.Preview(String themeId, String returnUrl) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Controllers\AdminController.cs:line 138
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+2020-03-16 17:52:23,672 [9] Orchard.Exceptions.DefaultExceptionPolicy - Default - An unexpected exception was caught [http://localhost:51265/]
+System.Exception: TargetInvocationException Zone ---> Orchard.OrchardException: Shape type Branding not found
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 106
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at Orchard.Core.Shapes.CoreShapes.Zone(Object Display, Object Shape, TextWriter Output) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Shapes\CoreShapes.cs:line 283
+   --- End of inner exception stack trace ---
+   at Orchard.DisplayManagement.Descriptors.ShapeAttributeStrategy.ShapeAttributeBindingStrategy.PerformInvoke(DisplayContext displayContext, MethodInfo methodInfo, Object serviceInstance) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeAttributeStrategy\ShapeAttributeBindingStrategy.cs:line 73
+   at Orchard.DisplayManagement.Descriptors.ShapeAttributeStrategy.ShapeAttributeBindingStrategy.<>c__DisplayClass5_0.<CreateDelegate>b__0(DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeAttributeStrategy\ShapeAttributeBindingStrategy.cs:line 55
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 207
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 103
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_Themes_Safarnama_Theme_Views_Layout_cshtml.<Execute>b__4_0(Object x) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Themes\Safarnama.Theme\Views\Layout.cshtml:line 26
+   at CallSite.Target(Closure , CallSite , Func`2 , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_Themes_Safarnama_Theme_Views_Layout_cshtml.Execute() in C:\Priyanka\Orchard-dev\src\Orchard.Web\Themes\Safarnama.Theme\Views\Layout.cshtml:line 103
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model, ViewDataDictionary viewData)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model)
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.Render(ShapeDescriptor shapeDescriptor, DisplayContext displayContext, HarvestShapeInfo harvestShapeInfo, HarvestShapeHit harvestShapeHit) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 151
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.<>c__DisplayClass20_7.<Discover>b__14(DisplayContext displayContext) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 133
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 207
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 103
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at Orchard.Mvc.ViewEngines.ThemeAwareness.LayoutAwareViewEngine.<>c__DisplayClass9_0.<FindView>b__0(ViewContext viewContext, TextWriter writer, IViewDataContainer viewDataContainer) in C:\Priyanka\Orchard-dev\src\Orchard\Mvc\ViewEngines\ThemeAwareness\LayoutAwareViewEngine.cs:line 63
+   at Orchard.Mvc.ViewEngines.ThemeAwareness.LayoutAwareViewEngine.LayoutView.Render(ViewContext viewContext, TextWriter writer) in C:\Priyanka\Orchard-dev\src\Orchard\Mvc\ViewEngines\ThemeAwareness\LayoutAwareViewEngine.cs:line 90
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+2020-03-16 18:05:17,686 [9] Orchard.Exceptions.DefaultExceptionPolicy - Default - An unexpected exception was caught [http://localhost:51265/]
+System.Exception: TargetInvocationException Zone ---> Orchard.OrchardException: Shape type Branding not found
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 106
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at Orchard.Core.Shapes.CoreShapes.Zone(Object Display, Object Shape, TextWriter Output) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Shapes\CoreShapes.cs:line 283
+   --- End of inner exception stack trace ---
+   at Orchard.DisplayManagement.Descriptors.ShapeAttributeStrategy.ShapeAttributeBindingStrategy.PerformInvoke(DisplayContext displayContext, MethodInfo methodInfo, Object serviceInstance) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeAttributeStrategy\ShapeAttributeBindingStrategy.cs:line 73
+   at Orchard.DisplayManagement.Descriptors.ShapeAttributeStrategy.ShapeAttributeBindingStrategy.<>c__DisplayClass5_0.<CreateDelegate>b__0(DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeAttributeStrategy\ShapeAttributeBindingStrategy.cs:line 55
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 207
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 103
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_Themes_Safarnama_Theme_Views_Layout_cshtml.<Execute>b__4_0(Object x) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Themes\Safarnama.Theme\Views\Layout.cshtml:line 22
+   at CallSite.Target(Closure , CallSite , Func`2 , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_Themes_Safarnama_Theme_Views_Layout_cshtml.Execute() in C:\Priyanka\Orchard-dev\src\Orchard.Web\Themes\Safarnama.Theme\Views\Layout.cshtml:line 66
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model, ViewDataDictionary viewData)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model)
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.Render(ShapeDescriptor shapeDescriptor, DisplayContext displayContext, HarvestShapeInfo harvestShapeInfo, HarvestShapeHit harvestShapeHit) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 151
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.<>c__DisplayClass20_7.<Discover>b__14(DisplayContext displayContext) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 133
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 207
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 103
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at Orchard.Mvc.ViewEngines.ThemeAwareness.LayoutAwareViewEngine.<>c__DisplayClass9_0.<FindView>b__0(ViewContext viewContext, TextWriter writer, IViewDataContainer viewDataContainer) in C:\Priyanka\Orchard-dev\src\Orchard\Mvc\ViewEngines\ThemeAwareness\LayoutAwareViewEngine.cs:line 63
+   at Orchard.Mvc.ViewEngines.ThemeAwareness.LayoutAwareViewEngine.LayoutView.Render(ViewContext viewContext, TextWriter writer) in C:\Priyanka\Orchard-dev\src\Orchard\Mvc\ViewEngines\ThemeAwareness\LayoutAwareViewEngine.cs:line 90
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+2020-03-16 18:10:39,687 [12] Orchard.Exceptions.DefaultExceptionPolicy - Default - An unexpected exception was caught [http://localhost:51265/]
+System.Exception: TargetInvocationException Zone ---> Orchard.OrchardException: Shape type Branding not found
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 106
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at Orchard.Core.Shapes.CoreShapes.Zone(Object Display, Object Shape, TextWriter Output) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Shapes\CoreShapes.cs:line 283
+   --- End of inner exception stack trace ---
+   at Orchard.DisplayManagement.Descriptors.ShapeAttributeStrategy.ShapeAttributeBindingStrategy.PerformInvoke(DisplayContext displayContext, MethodInfo methodInfo, Object serviceInstance) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeAttributeStrategy\ShapeAttributeBindingStrategy.cs:line 73
+   at Orchard.DisplayManagement.Descriptors.ShapeAttributeStrategy.ShapeAttributeBindingStrategy.<>c__DisplayClass5_0.<CreateDelegate>b__0(DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeAttributeStrategy\ShapeAttributeBindingStrategy.cs:line 55
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 207
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 103
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_Themes_Safarnama_Theme_Views_Layout_cshtml.<Execute>b__4_0(Object x) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Themes\Safarnama.Theme\Views\Layout.cshtml:line 22
+   at CallSite.Target(Closure , CallSite , Func`2 , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at ASP._Page_Themes_Safarnama_Theme_Views_Layout_cshtml.Execute() in C:\Priyanka\Orchard-dev\src\Orchard.Web\Themes\Safarnama.Theme\Views\Layout.cshtml:line 66
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model, ViewDataDictionary viewData)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model)
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.Render(ShapeDescriptor shapeDescriptor, DisplayContext displayContext, HarvestShapeInfo harvestShapeInfo, HarvestShapeHit harvestShapeHit) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 151
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.<>c__DisplayClass20_7.<Discover>b__14(DisplayContext displayContext) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 133
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 207
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 103
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at Orchard.Mvc.ViewEngines.ThemeAwareness.LayoutAwareViewEngine.<>c__DisplayClass9_0.<FindView>b__0(ViewContext viewContext, TextWriter writer, IViewDataContainer viewDataContainer) in C:\Priyanka\Orchard-dev\src\Orchard\Mvc\ViewEngines\ThemeAwareness\LayoutAwareViewEngine.cs:line 63
+   at Orchard.Mvc.ViewEngines.ThemeAwareness.LayoutAwareViewEngine.LayoutView.Render(ViewContext viewContext, TextWriter writer) in C:\Priyanka\Orchard-dev\src\Orchard\Mvc\ViewEngines\ThemeAwareness\LayoutAwareViewEngine.cs:line 90
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+2020-03-16 18:10:42,660 [8] NHibernate.Event.Default.AbstractFlushingEventListener - (null) - Could not synchronize database state with session [(null)]
+NHibernate.StaleStateException: Unexpected row count: 0; expected: 1
+   at NHibernate.AdoNet.Expectations.BasicExpectation.VerifyOutcomeNonBatched(Int32 rowCount, IDbCommand statement)
+   at NHibernate.AdoNet.NonBatchingBatcher.AddToBatch(IExpectation expectation)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Int32 j, Object obj, SqlCommandInfo sql, ISessionImplementor session, Object[] loadedState)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Object obj, ISessionImplementor session)
+   at NHibernate.Action.EntityDeleteAction.Execute()
+   at NHibernate.Engine.ActionQueue.Execute(IExecutable executable)
+   at NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   at NHibernate.Engine.ActionQueue.ExecuteActions()
+   at NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+2020-03-16 18:10:42,887 [8] Orchard.Exceptions.DefaultExceptionPolicy - Default - An unexpected exception was caught [http://localhost:51265/Admin/Modules/Features]
+NHibernate.StaleStateException: Unexpected row count: 0; expected: 1
+   at NHibernate.AdoNet.Expectations.BasicExpectation.VerifyOutcomeNonBatched(Int32 rowCount, IDbCommand statement)
+   at NHibernate.AdoNet.NonBatchingBatcher.AddToBatch(IExpectation expectation)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Int32 j, Object obj, SqlCommandInfo sql, ISessionImplementor session, Object[] loadedState)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Object obj, ISessionImplementor session)
+   at NHibernate.Action.EntityDeleteAction.Execute()
+   at NHibernate.Engine.ActionQueue.Execute(IExecutable executable)
+   at NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   at NHibernate.Engine.ActionQueue.ExecuteActions()
+   at NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+   at NHibernate.Event.Default.DefaultAutoFlushEventListener.OnAutoFlush(AutoFlushEvent event)
+   at NHibernate.Impl.SessionImpl.AutoFlushIfRequired(ISet`1 querySpaces)
+   at NHibernate.Impl.SessionImpl.List(IQueryExpression queryExpression, QueryParameters queryParameters, IList results)
+   at NHibernate.Impl.AbstractSessionImpl.List(IQueryExpression queryExpression, QueryParameters parameters)
+   at NHibernate.Impl.AbstractQueryImpl2.List()
+   at NHibernate.Linq.DefaultQueryProvider.ExecuteQuery(NhLinqExpression nhLinqExpression, IQuery query, NhLinqExpression nhQuery)
+   at NHibernate.Linq.DefaultQueryProvider.Execute(Expression expression)
+   at NHibernate.Linq.DefaultQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.SingleOrDefault[TSource](IQueryable`1 source)
+   at Orchard.Data.Repository`1.Get(Expression`1 predicate) in C:\Priyanka\Orchard-dev\src\Orchard\Data\Repository.cs:line 88
+   at Orchard.Data.Repository`1.Orchard.Data.IRepository<T>.Get(Expression`1 predicate) in C:\Priyanka\Orchard-dev\src\Orchard\Data\Repository.cs:line 57
+   at Orchard.Core.Settings.Descriptor.ShellDescriptorManager.GetDescriptorRecord() in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Settings\Descriptor\ShellDescriptorManager.cs:line 54
+   at Orchard.Core.Settings.Descriptor.ShellDescriptorManager.GetShellDescriptor() in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Settings\Descriptor\ShellDescriptorManager.cs:line 27
+   at Orchard.Core.Settings.State.ShellStateManager.GetShellState() in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Settings\State\ShellStateManager.cs:line 27
+   at Orchard.Environment.State.ShellStateCoordinator.Orchard.Environment.Descriptor.IShellDescriptorManagerEventHandler.Changed(ShellDescriptor descriptor, String tenant) in C:\Priyanka\Orchard-dev\src\Orchard\Environment\State\ShellStateCoordinator.cs:line 38
+   at Orchard.Events.DelegateHelper.<>c__DisplayClass15_0`3.<BuildAction>b__0(Object target, Object[] p) in C:\Priyanka\Orchard-dev\src\Orchard\Events\DelegateHelper.cs:line 122
+   at Orchard.Events.DefaultOrchardEventBus.TryInvokeMethod(IEventHandler eventHandler, Type interfaceType, String messageName, String interfaceName, String methodName, IDictionary`2 arguments, IEnumerable& returnValue) in C:\Priyanka\Orchard-dev\src\Orchard\Events\DefaultOrchardEventBus.cs:line 84
+   at Orchard.Events.DefaultOrchardEventBus.TryInvoke(IEventHandler eventHandler, String messageName, String interfaceName, String methodName, IDictionary`2 arguments, IEnumerable& returnValue) in C:\Priyanka\Orchard-dev\src\Orchard\Events\DefaultOrchardEventBus.cs:line 70
+   at Orchard.Events.DefaultOrchardEventBus.TryNotifyHandler(IEventHandler eventHandler, String messageName, String interfaceName, String methodName, IDictionary`2 eventData, IEnumerable& returnValue) in C:\Priyanka\Orchard-dev\src\Orchard\Events\DefaultOrchardEventBus.cs:line 53
+2020-03-16 18:10:42,901 [8] NHibernate.Event.Default.AbstractFlushingEventListener - Default - Could not synchronize database state with session [http://localhost:51265/Admin/Modules/Features]
+NHibernate.StaleStateException: Unexpected row count: 0; expected: 1
+   at NHibernate.AdoNet.Expectations.BasicExpectation.VerifyOutcomeNonBatched(Int32 rowCount, IDbCommand statement)
+   at NHibernate.AdoNet.NonBatchingBatcher.AddToBatch(IExpectation expectation)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Int32 j, Object obj, SqlCommandInfo sql, ISessionImplementor session, Object[] loadedState)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Object obj, ISessionImplementor session)
+   at NHibernate.Action.EntityDeleteAction.Execute()
+   at NHibernate.Engine.ActionQueue.Execute(IExecutable executable)
+   at NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   at NHibernate.Engine.ActionQueue.ExecuteActions()
+   at NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+2020-03-16 18:10:43,044 [12] NHibernate.Event.Default.AbstractFlushingEventListener - Default - Could not synchronize database state with session [http://localhost:51265/]
+NHibernate.StaleStateException: Unexpected row count: 0; expected: 1
+   at NHibernate.AdoNet.Expectations.BasicExpectation.VerifyOutcomeNonBatched(Int32 rowCount, IDbCommand statement)
+   at NHibernate.AdoNet.NonBatchingBatcher.AddToBatch(IExpectation expectation)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Int32 j, Object obj, SqlCommandInfo sql, ISessionImplementor session, Object[] loadedState)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Object obj, ISessionImplementor session)
+   at NHibernate.Action.EntityDeleteAction.Execute()
+   at NHibernate.Engine.ActionQueue.Execute(IExecutable executable)
+   at NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   at NHibernate.Engine.ActionQueue.ExecuteActions()
+   at NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+2020-03-16 18:10:43,196 [12] Orchard.Exceptions.DefaultExceptionPolicy - Default - An unexpected exception was caught [http://localhost:51265/Admin/Modules/Features]
+NHibernate.StaleStateException: Unexpected row count: 0; expected: 1
+   at NHibernate.AdoNet.Expectations.BasicExpectation.VerifyOutcomeNonBatched(Int32 rowCount, IDbCommand statement)
+   at NHibernate.AdoNet.NonBatchingBatcher.AddToBatch(IExpectation expectation)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Int32 j, Object obj, SqlCommandInfo sql, ISessionImplementor session, Object[] loadedState)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Object obj, ISessionImplementor session)
+   at NHibernate.Action.EntityDeleteAction.Execute()
+   at NHibernate.Engine.ActionQueue.Execute(IExecutable executable)
+   at NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   at NHibernate.Engine.ActionQueue.ExecuteActions()
+   at NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+   at NHibernate.Event.Default.DefaultAutoFlushEventListener.OnAutoFlush(AutoFlushEvent event)
+   at NHibernate.Impl.SessionImpl.AutoFlushIfRequired(ISet`1 querySpaces)
+   at NHibernate.Impl.SessionImpl.List(IQueryExpression queryExpression, QueryParameters queryParameters, IList results)
+   at NHibernate.Impl.AbstractSessionImpl.List(IQueryExpression queryExpression, QueryParameters parameters)
+   at NHibernate.Impl.AbstractQueryImpl2.List()
+   at NHibernate.Linq.DefaultQueryProvider.ExecuteQuery(NhLinqExpression nhLinqExpression, IQuery query, NhLinqExpression nhQuery)
+   at NHibernate.Linq.DefaultQueryProvider.Execute(Expression expression)
+   at NHibernate.Linq.DefaultQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.SingleOrDefault[TSource](IQueryable`1 source)
+   at Orchard.Data.Repository`1.Get(Expression`1 predicate) in C:\Priyanka\Orchard-dev\src\Orchard\Data\Repository.cs:line 88
+   at Orchard.Data.Repository`1.Orchard.Data.IRepository<T>.Get(Expression`1 predicate) in C:\Priyanka\Orchard-dev\src\Orchard\Data\Repository.cs:line 57
+   at Orchard.Core.Settings.Descriptor.ShellDescriptorManager.GetDescriptorRecord() in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Settings\Descriptor\ShellDescriptorManager.cs:line 54
+   at Orchard.Core.Settings.Descriptor.ShellDescriptorManager.GetShellDescriptor() in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Settings\Descriptor\ShellDescriptorManager.cs:line 27
+   at Orchard.Core.Settings.State.ShellStateManager.GetShellState() in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Settings\State\ShellStateManager.cs:line 27
+   at Orchard.Environment.State.ShellStateCoordinator.Orchard.Environment.Descriptor.IShellDescriptorManagerEventHandler.Changed(ShellDescriptor descriptor, String tenant) in C:\Priyanka\Orchard-dev\src\Orchard\Environment\State\ShellStateCoordinator.cs:line 38
+   at Orchard.Events.DelegateHelper.<>c__DisplayClass15_0`3.<BuildAction>b__0(Object target, Object[] p) in C:\Priyanka\Orchard-dev\src\Orchard\Events\DelegateHelper.cs:line 122
+   at Orchard.Events.DefaultOrchardEventBus.TryInvokeMethod(IEventHandler eventHandler, Type interfaceType, String messageName, String interfaceName, String methodName, IDictionary`2 arguments, IEnumerable& returnValue) in C:\Priyanka\Orchard-dev\src\Orchard\Events\DefaultOrchardEventBus.cs:line 84
+   at Orchard.Events.DefaultOrchardEventBus.TryInvoke(IEventHandler eventHandler, String messageName, String interfaceName, String methodName, IDictionary`2 arguments, IEnumerable& returnValue) in C:\Priyanka\Orchard-dev\src\Orchard\Events\DefaultOrchardEventBus.cs:line 70
+   at Orchard.Events.DefaultOrchardEventBus.TryNotifyHandler(IEventHandler eventHandler, String messageName, String interfaceName, String methodName, IDictionary`2 eventData, IEnumerable& returnValue) in C:\Priyanka\Orchard-dev\src\Orchard\Events\DefaultOrchardEventBus.cs:line 53
+2020-03-16 18:10:43,248 [12] NHibernate.Event.Default.AbstractFlushingEventListener - Default - Could not synchronize database state with session [http://localhost:51265/Admin/Modules/Features]
+NHibernate.StaleStateException: Unexpected row count: 0; expected: 1
+   at NHibernate.AdoNet.Expectations.BasicExpectation.VerifyOutcomeNonBatched(Int32 rowCount, IDbCommand statement)
+   at NHibernate.AdoNet.NonBatchingBatcher.AddToBatch(IExpectation expectation)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Int32 j, Object obj, SqlCommandInfo sql, ISessionImplementor session, Object[] loadedState)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Object obj, ISessionImplementor session)
+   at NHibernate.Action.EntityDeleteAction.Execute()
+   at NHibernate.Engine.ActionQueue.Execute(IExecutable executable)
+   at NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   at NHibernate.Engine.ActionQueue.ExecuteActions()
+   at NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+2020-03-16 18:10:43,494 [7] NHibernate.Event.Default.AbstractFlushingEventListener - (null) - Could not synchronize database state with session [(null)]
+NHibernate.StaleStateException: Unexpected row count: 0; expected: 1
+   at NHibernate.AdoNet.Expectations.BasicExpectation.VerifyOutcomeNonBatched(Int32 rowCount, IDbCommand statement)
+   at NHibernate.AdoNet.NonBatchingBatcher.AddToBatch(IExpectation expectation)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Int32 j, Object obj, SqlCommandInfo sql, ISessionImplementor session, Object[] loadedState)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Object obj, ISessionImplementor session)
+   at NHibernate.Action.EntityDeleteAction.Execute()
+   at NHibernate.Engine.ActionQueue.Execute(IExecutable executable)
+   at NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   at NHibernate.Engine.ActionQueue.ExecuteActions()
+   at NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+2020-03-16 18:10:43,574 [7] Orchard.Exceptions.DefaultExceptionPolicy - Default - An unexpected exception was caught [http://localhost:51265/Admin/Modules/Features]
+NHibernate.StaleStateException: Unexpected row count: 0; expected: 1
+   at NHibernate.AdoNet.Expectations.BasicExpectation.VerifyOutcomeNonBatched(Int32 rowCount, IDbCommand statement)
+   at NHibernate.AdoNet.NonBatchingBatcher.AddToBatch(IExpectation expectation)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Int32 j, Object obj, SqlCommandInfo sql, ISessionImplementor session, Object[] loadedState)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Object obj, ISessionImplementor session)
+   at NHibernate.Action.EntityDeleteAction.Execute()
+   at NHibernate.Engine.ActionQueue.Execute(IExecutable executable)
+   at NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   at NHibernate.Engine.ActionQueue.ExecuteActions()
+   at NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+   at NHibernate.Event.Default.DefaultAutoFlushEventListener.OnAutoFlush(AutoFlushEvent event)
+   at NHibernate.Impl.SessionImpl.AutoFlushIfRequired(ISet`1 querySpaces)
+   at NHibernate.Impl.SessionImpl.List(IQueryExpression queryExpression, QueryParameters queryParameters, IList results)
+   at NHibernate.Impl.AbstractSessionImpl.List(IQueryExpression queryExpression, QueryParameters parameters)
+   at NHibernate.Impl.AbstractQueryImpl2.List()
+   at NHibernate.Linq.DefaultQueryProvider.ExecuteQuery(NhLinqExpression nhLinqExpression, IQuery query, NhLinqExpression nhQuery)
+   at NHibernate.Linq.DefaultQueryProvider.Execute(Expression expression)
+   at NHibernate.Linq.DefaultQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.SingleOrDefault[TSource](IQueryable`1 source)
+   at Orchard.Data.Repository`1.Get(Expression`1 predicate) in C:\Priyanka\Orchard-dev\src\Orchard\Data\Repository.cs:line 88
+   at Orchard.Data.Repository`1.Orchard.Data.IRepository<T>.Get(Expression`1 predicate) in C:\Priyanka\Orchard-dev\src\Orchard\Data\Repository.cs:line 57
+   at Orchard.Core.Settings.Descriptor.ShellDescriptorManager.GetDescriptorRecord() in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Settings\Descriptor\ShellDescriptorManager.cs:line 54
+   at Orchard.Core.Settings.Descriptor.ShellDescriptorManager.GetShellDescriptor() in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Settings\Descriptor\ShellDescriptorManager.cs:line 27
+   at Orchard.Core.Settings.State.ShellStateManager.GetShellState() in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Settings\State\ShellStateManager.cs:line 27
+   at Orchard.Environment.State.ShellStateCoordinator.Orchard.Environment.Descriptor.IShellDescriptorManagerEventHandler.Changed(ShellDescriptor descriptor, String tenant) in C:\Priyanka\Orchard-dev\src\Orchard\Environment\State\ShellStateCoordinator.cs:line 38
+   at Orchard.Events.DelegateHelper.<>c__DisplayClass15_0`3.<BuildAction>b__0(Object target, Object[] p) in C:\Priyanka\Orchard-dev\src\Orchard\Events\DelegateHelper.cs:line 122
+   at Orchard.Events.DefaultOrchardEventBus.TryInvokeMethod(IEventHandler eventHandler, Type interfaceType, String messageName, String interfaceName, String methodName, IDictionary`2 arguments, IEnumerable& returnValue) in C:\Priyanka\Orchard-dev\src\Orchard\Events\DefaultOrchardEventBus.cs:line 84
+   at Orchard.Events.DefaultOrchardEventBus.TryInvoke(IEventHandler eventHandler, String messageName, String interfaceName, String methodName, IDictionary`2 arguments, IEnumerable& returnValue) in C:\Priyanka\Orchard-dev\src\Orchard\Events\DefaultOrchardEventBus.cs:line 70
+   at Orchard.Events.DefaultOrchardEventBus.TryNotifyHandler(IEventHandler eventHandler, String messageName, String interfaceName, String methodName, IDictionary`2 eventData, IEnumerable& returnValue) in C:\Priyanka\Orchard-dev\src\Orchard\Events\DefaultOrchardEventBus.cs:line 53
+2020-03-16 18:10:43,650 [7] NHibernate.Event.Default.AbstractFlushingEventListener - Default - Could not synchronize database state with session [http://localhost:51265/Admin/Modules/Features]
+NHibernate.StaleStateException: Unexpected row count: 0; expected: 1
+   at NHibernate.AdoNet.Expectations.BasicExpectation.VerifyOutcomeNonBatched(Int32 rowCount, IDbCommand statement)
+   at NHibernate.AdoNet.NonBatchingBatcher.AddToBatch(IExpectation expectation)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Int32 j, Object obj, SqlCommandInfo sql, ISessionImplementor session, Object[] loadedState)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Object obj, ISessionImplementor session)
+   at NHibernate.Action.EntityDeleteAction.Execute()
+   at NHibernate.Engine.ActionQueue.Execute(IExecutable executable)
+   at NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   at NHibernate.Engine.ActionQueue.ExecuteActions()
+   at NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+2020-03-16 18:10:43,935 [10] NHibernate.Event.Default.AbstractFlushingEventListener - (null) - Could not synchronize database state with session [(null)]
+NHibernate.StaleStateException: Unexpected row count: 0; expected: 1
+   at NHibernate.AdoNet.Expectations.BasicExpectation.VerifyOutcomeNonBatched(Int32 rowCount, IDbCommand statement)
+   at NHibernate.AdoNet.NonBatchingBatcher.AddToBatch(IExpectation expectation)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Int32 j, Object obj, SqlCommandInfo sql, ISessionImplementor session, Object[] loadedState)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Object obj, ISessionImplementor session)
+   at NHibernate.Action.EntityDeleteAction.Execute()
+   at NHibernate.Engine.ActionQueue.Execute(IExecutable executable)
+   at NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   at NHibernate.Engine.ActionQueue.ExecuteActions()
+   at NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+2020-03-16 18:10:43,997 [10] Orchard.Exceptions.DefaultExceptionPolicy - Default - An unexpected exception was caught [http://localhost:51265/Admin/Modules/Features]
+NHibernate.StaleStateException: Unexpected row count: 0; expected: 1
+   at NHibernate.AdoNet.Expectations.BasicExpectation.VerifyOutcomeNonBatched(Int32 rowCount, IDbCommand statement)
+   at NHibernate.AdoNet.NonBatchingBatcher.AddToBatch(IExpectation expectation)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Int32 j, Object obj, SqlCommandInfo sql, ISessionImplementor session, Object[] loadedState)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Object obj, ISessionImplementor session)
+   at NHibernate.Action.EntityDeleteAction.Execute()
+   at NHibernate.Engine.ActionQueue.Execute(IExecutable executable)
+   at NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   at NHibernate.Engine.ActionQueue.ExecuteActions()
+   at NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+   at NHibernate.Event.Default.DefaultAutoFlushEventListener.OnAutoFlush(AutoFlushEvent event)
+   at NHibernate.Impl.SessionImpl.AutoFlushIfRequired(ISet`1 querySpaces)
+   at NHibernate.Impl.SessionImpl.List(IQueryExpression queryExpression, QueryParameters queryParameters, IList results)
+   at NHibernate.Impl.AbstractSessionImpl.List(IQueryExpression queryExpression, QueryParameters parameters)
+   at NHibernate.Impl.AbstractQueryImpl2.List()
+   at NHibernate.Linq.DefaultQueryProvider.ExecuteQuery(NhLinqExpression nhLinqExpression, IQuery query, NhLinqExpression nhQuery)
+   at NHibernate.Linq.DefaultQueryProvider.Execute(Expression expression)
+   at NHibernate.Linq.DefaultQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.SingleOrDefault[TSource](IQueryable`1 source)
+   at Orchard.Data.Repository`1.Get(Expression`1 predicate) in C:\Priyanka\Orchard-dev\src\Orchard\Data\Repository.cs:line 88
+   at Orchard.Data.Repository`1.Orchard.Data.IRepository<T>.Get(Expression`1 predicate) in C:\Priyanka\Orchard-dev\src\Orchard\Data\Repository.cs:line 57
+   at Orchard.Core.Settings.Descriptor.ShellDescriptorManager.GetDescriptorRecord() in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Settings\Descriptor\ShellDescriptorManager.cs:line 54
+   at Orchard.Core.Settings.Descriptor.ShellDescriptorManager.GetShellDescriptor() in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Settings\Descriptor\ShellDescriptorManager.cs:line 27
+   at Orchard.Core.Settings.State.ShellStateManager.GetShellState() in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Settings\State\ShellStateManager.cs:line 27
+   at Orchard.Environment.State.ShellStateCoordinator.Orchard.Environment.Descriptor.IShellDescriptorManagerEventHandler.Changed(ShellDescriptor descriptor, String tenant) in C:\Priyanka\Orchard-dev\src\Orchard\Environment\State\ShellStateCoordinator.cs:line 38
+   at Orchard.Events.DelegateHelper.<>c__DisplayClass15_0`3.<BuildAction>b__0(Object target, Object[] p) in C:\Priyanka\Orchard-dev\src\Orchard\Events\DelegateHelper.cs:line 122
+   at Orchard.Events.DefaultOrchardEventBus.TryInvokeMethod(IEventHandler eventHandler, Type interfaceType, String messageName, String interfaceName, String methodName, IDictionary`2 arguments, IEnumerable& returnValue) in C:\Priyanka\Orchard-dev\src\Orchard\Events\DefaultOrchardEventBus.cs:line 84
+   at Orchard.Events.DefaultOrchardEventBus.TryInvoke(IEventHandler eventHandler, String messageName, String interfaceName, String methodName, IDictionary`2 arguments, IEnumerable& returnValue) in C:\Priyanka\Orchard-dev\src\Orchard\Events\DefaultOrchardEventBus.cs:line 70
+   at Orchard.Events.DefaultOrchardEventBus.TryNotifyHandler(IEventHandler eventHandler, String messageName, String interfaceName, String methodName, IDictionary`2 eventData, IEnumerable& returnValue) in C:\Priyanka\Orchard-dev\src\Orchard\Events\DefaultOrchardEventBus.cs:line 53
+2020-03-16 18:10:44,015 [10] NHibernate.Event.Default.AbstractFlushingEventListener - Default - Could not synchronize database state with session [http://localhost:51265/Admin/Modules/Features]
+NHibernate.StaleStateException: Unexpected row count: 0; expected: 1
+   at NHibernate.AdoNet.Expectations.BasicExpectation.VerifyOutcomeNonBatched(Int32 rowCount, IDbCommand statement)
+   at NHibernate.AdoNet.NonBatchingBatcher.AddToBatch(IExpectation expectation)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Int32 j, Object obj, SqlCommandInfo sql, ISessionImplementor session, Object[] loadedState)
+   at NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Object obj, ISessionImplementor session)
+   at NHibernate.Action.EntityDeleteAction.Execute()
+   at NHibernate.Engine.ActionQueue.Execute(IExecutable executable)
+   at NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   at NHibernate.Engine.ActionQueue.ExecuteActions()
+   at NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)

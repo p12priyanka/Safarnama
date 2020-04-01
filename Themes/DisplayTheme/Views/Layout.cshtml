@@ -1,0 +1,16 @@
+﻿@{
+    Script.Require("ShapesBase");
+    Style.Include("Site.css");
+}
+
+<div id="header">
+    <div id="branding">
+        <h1>@T("Welcome to the Playground")</h1>
+    </div>
+</div>
+<div id="layout-navigation" class="group">
+    @Display(Model.Navigation)
+</div>
+<div id="main">
+    @Display(Model.Content)
+</div>

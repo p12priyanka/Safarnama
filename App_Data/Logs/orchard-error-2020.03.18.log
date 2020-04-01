@@ -1,0 +1,38 @@
+2020-03-18 16:26:24,225 [17] Orchard.DisplayManagement.Implementation.DefaultDisplayManager - Default - RuntimeBinderException thrown from Action`1 by System.Action`1[[Orchard.DisplayManagement.Implementation.ShapeDisplayingContext, Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null]] [http://localhost:51265/new-projection]
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'Orchard.Core.Shapes.CoreShapes.EncodeAlternateElement(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , CoreShapes , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at CallSite.Target(Closure , CallSite , CoreShapes , Object )
+   at Orchard.Core.Shapes.CoreShapes.<Discover>b__12_6(ShapeDisplayingContext displaying) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Shapes\CoreShapes.cs:line 104
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.<>c__DisplayClass15_0.<Execute>b__1(Action`1 action) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 80
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Priyanka\Orchard-dev\src\Orchard\InvokeExtensions.cs:line 17
+2020-03-18 16:26:25,341 [17] Orchard.DisplayManagement.Implementation.DefaultDisplayManager - Default - RuntimeBinderException thrown from Action`1 by System.Action`1[[Orchard.DisplayManagement.Implementation.ShapeDisplayingContext, Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null]] [http://localhost:51265/new-projection]
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'Orchard.Core.Shapes.CoreShapes.EncodeAlternateElement(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , CoreShapes , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at CallSite.Target(Closure , CallSite , CoreShapes , Object )
+   at Orchard.Core.Shapes.CoreShapes.<Discover>b__12_6(ShapeDisplayingContext displaying) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Shapes\CoreShapes.cs:line 104
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.<>c__DisplayClass15_0.<Execute>b__1(Action`1 action) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 80
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Priyanka\Orchard-dev\src\Orchard\InvokeExtensions.cs:line 17
+2020-03-18 16:27:52,546 [19] Orchard.DisplayManagement.Implementation.DefaultDisplayManager - Default - RuntimeBinderException thrown from Action`1 by System.Action`1[[Orchard.DisplayManagement.Implementation.ShapeDisplayingContext, Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null]] [http://localhost:51265/new-projection]
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'Orchard.Core.Shapes.CoreShapes.EncodeAlternateElement(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , CoreShapes , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at CallSite.Target(Closure , CallSite , CoreShapes , Object )
+   at Orchard.Core.Shapes.CoreShapes.<Discover>b__12_6(ShapeDisplayingContext displaying) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Shapes\CoreShapes.cs:line 104
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.<>c__DisplayClass15_0.<Execute>b__1(Action`1 action) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 80
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Priyanka\Orchard-dev\src\Orchard\InvokeExtensions.cs:line 17
+2020-03-18 16:27:53,467 [19] Orchard.DisplayManagement.Implementation.DefaultDisplayManager - Default - RuntimeBinderException thrown from Action`1 by System.Action`1[[Orchard.DisplayManagement.Implementation.ShapeDisplayingContext, Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null]] [http://localhost:51265/new-projection]
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'Orchard.Core.Shapes.CoreShapes.EncodeAlternateElement(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , CoreShapes , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at CallSite.Target(Closure , CallSite , CoreShapes , Object )
+   at Orchard.Core.Shapes.CoreShapes.<Discover>b__12_6(ShapeDisplayingContext displaying) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Shapes\CoreShapes.cs:line 104
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.<>c__DisplayClass15_0.<Execute>b__1(Action`1 action) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 80
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Priyanka\Orchard-dev\src\Orchard\InvokeExtensions.cs:line 17
+2020-03-18 16:27:53,531 [19] Orchard.DisplayManagement.Implementation.DefaultDisplayManager - Default - RuntimeBinderException thrown from Action`1 by System.Action`1[[Orchard.DisplayManagement.Implementation.ShapeDisplayingContext, Orchard.Framework, Version=1.10.3.0, Culture=neutral, PublicKeyToken=null]] [http://localhost:51265/new-projection]
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'Orchard.Core.Shapes.CoreShapes.EncodeAlternateElement(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , CoreShapes , Object )
+   at Orchard.Core.Shapes.CoreShapes.<Discover>b__12_6(ShapeDisplayingContext displaying) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Core\Shapes\CoreShapes.cs:line 104
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.<>c__DisplayClass15_0.<Execute>b__1(Action`1 action) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 80
+   at Orchard.InvokeExtensions.Invoke[TEvents](IEnumerable`1 events, Action`1 dispatch, ILogger logger) in C:\Priyanka\Orchard-dev\src\Orchard\InvokeExtensions.cs:line 17

@@ -1,0 +1,100 @@
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.MediaLibrary.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.MediaLibrary.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.MediaLibrary.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Microsoft.Web.Infrastructure.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Newtonsoft.Json.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.ContentTypes.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Localization.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Tokens.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.Helpers.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.Mvc.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.WebPages.Deployment.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.WebPages.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.WebPages.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Themes.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Autoroute.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\MSTranslitTools.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Alias.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Packaging.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\NuGet.Core.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Modules.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.ContentTypes.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.ContentTypes.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Localization.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Localization.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Tokens.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Tokens.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Newtonsoft.Json.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.Helpers.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.Mvc.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.WebPages.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.WebPages.Deployment.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.WebPages.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Themes.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Themes.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Autoroute.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Autoroute.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Alias.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Alias.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Packaging.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Packaging.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Modules.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Modules.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\obj\Debug\Orchard.MediaLibrary.csprojAssemblyReference.cache
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\obj\Debug\Orchard.MediaLibrary.csproj.CopyComplete
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\obj\Debug\Orchard.MediaLibrary.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\obj\Debug\Orchard.MediaLibrary.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.MediaLibrary.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.MediaLibrary.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.MediaLibrary.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Microsoft.Web.Infrastructure.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Newtonsoft.Json.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.ContentTypes.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Localization.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Tokens.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.Helpers.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.Mvc.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.WebPages.Deployment.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.WebPages.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.WebPages.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Themes.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Autoroute.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\MSTranslitTools.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Alias.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Packaging.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\NuGet.Core.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Modules.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.ContentTypes.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.ContentTypes.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Localization.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Localization.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Tokens.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Tokens.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Newtonsoft.Json.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.Helpers.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.Mvc.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.WebPages.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.WebPages.Deployment.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\System.Web.WebPages.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Themes.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Themes.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Autoroute.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Autoroute.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Alias.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Alias.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Packaging.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Packaging.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Modules.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\bin\Orchard.Modules.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\obj\Debug\Orchard.MediaLibrary.csprojAssemblyReference.cache
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\obj\Debug\Orchard.MediaLibrary.csproj.CopyComplete
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\obj\Debug\Orchard.MediaLibrary.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.MediaLibrary\obj\Debug\Orchard.MediaLibrary.pdb

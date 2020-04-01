@@ -1,0 +1,50 @@
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.Redis.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.Redis.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.Redis.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Iesi.Collections.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Newtonsoft.Json.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\NHibernate.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.Caching.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.MessageBus.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.OutputCache.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\StackExchange.Redis.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.Caching.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.Caching.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.MessageBus.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.MessageBus.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.OutputCache.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.OutputCache.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Iesi.Collections.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Newtonsoft.Json.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\NHibernate.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\StackExchange.Redis.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\StackExchange.Redis.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\obj\Debug\Orchard.Redis.csprojAssemblyReference.cache
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\obj\Debug\Orchard.Redis.csproj.CopyComplete
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\obj\Debug\Orchard.Redis.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\obj\Debug\Orchard.Redis.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.Redis.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.Redis.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.Redis.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Iesi.Collections.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Newtonsoft.Json.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\NHibernate.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.Caching.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.MessageBus.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.OutputCache.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\StackExchange.Redis.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.Caching.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.Caching.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.MessageBus.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.MessageBus.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.OutputCache.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Orchard.OutputCache.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Iesi.Collections.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\Newtonsoft.Json.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\NHibernate.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\StackExchange.Redis.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\bin\StackExchange.Redis.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\obj\Debug\Orchard.Redis.csprojAssemblyReference.cache
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\obj\Debug\Orchard.Redis.csproj.CopyComplete
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\obj\Debug\Orchard.Redis.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Redis\obj\Debug\Orchard.Redis.pdb

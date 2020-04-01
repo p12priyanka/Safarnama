@@ -1,0 +1,12 @@
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting\bin\Orchard.Scripting.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting\bin\Orchard.Scripting.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting\bin\Orchard.Scripting.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting\obj\Debug\Orchard.Scripting.csprojAssemblyReference.cache
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting\obj\Debug\Orchard.Scripting.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting\obj\Debug\Orchard.Scripting.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting\bin\Orchard.Scripting.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting\bin\Orchard.Scripting.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting\bin\Orchard.Scripting.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting\obj\Debug\Orchard.Scripting.csprojAssemblyReference.cache
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting\obj\Debug\Orchard.Scripting.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Scripting\obj\Debug\Orchard.Scripting.pdb

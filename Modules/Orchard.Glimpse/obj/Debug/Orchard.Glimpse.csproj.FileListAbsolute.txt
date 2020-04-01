@@ -1,0 +1,186 @@
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Glimpse.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Glimpse.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Glimpse.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Autofac.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\FluentNHibernate.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Glimpse.Ado.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Glimpse.AspNet.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Glimpse.Core.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Glimpse.Mvc5.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Iesi.Collections.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Microsoft.Web.Infrastructure.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\NHibernate.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Caching.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Conditions.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Tokens.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Users.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Widgets.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.Helpers.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.Mvc.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.WebPages.Deployment.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.WebPages.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.WebPages.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Scripting.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Workflows.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Forms.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Layouts.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Themes.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.MediaLibrary.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\YamlDotNet.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Alias.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Autoroute.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Projections.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Packaging.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.ContentTypes.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Localization.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\NuGet.Core.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Modules.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\MSTranslitTools.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Caching.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Caching.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Conditions.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Conditions.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Tokens.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Tokens.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Users.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Users.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Widgets.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Widgets.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Autofac.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\FluentNHibernate.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\FluentNHibernate.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Iesi.Collections.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\NHibernate.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.Helpers.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.Mvc.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.WebPages.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.WebPages.Deployment.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.WebPages.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Scripting.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Scripting.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Workflows.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Workflows.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Forms.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Forms.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Layouts.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Layouts.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Themes.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Themes.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.MediaLibrary.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.MediaLibrary.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\YamlDotNet.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Alias.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Alias.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Autoroute.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Autoroute.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Projections.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Projections.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Packaging.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Packaging.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.ContentTypes.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.ContentTypes.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Localization.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Localization.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Modules.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Modules.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\obj\Debug\Orchard.Glimpse.csprojAssemblyReference.cache
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\obj\Debug\Orchard.Glimpse.csproj.CopyComplete
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\obj\Debug\Orchard.Glimpse.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\obj\Debug\Orchard.Glimpse.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Glimpse.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Glimpse.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Glimpse.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Autofac.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\FluentNHibernate.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Glimpse.Ado.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Glimpse.AspNet.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Glimpse.Core.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Glimpse.Mvc5.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Iesi.Collections.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Microsoft.Web.Infrastructure.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\NHibernate.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Caching.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Conditions.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Tokens.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Users.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Widgets.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.Helpers.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.Mvc.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.WebPages.Deployment.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.WebPages.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.WebPages.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Scripting.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Workflows.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Forms.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Layouts.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Themes.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.MediaLibrary.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\YamlDotNet.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Alias.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Autoroute.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Projections.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Packaging.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.ContentTypes.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Localization.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\NuGet.Core.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Modules.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\MSTranslitTools.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Caching.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Caching.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Conditions.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Conditions.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Tokens.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Tokens.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Users.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Users.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Widgets.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Widgets.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Autofac.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\FluentNHibernate.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\FluentNHibernate.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Iesi.Collections.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\NHibernate.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.Helpers.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.Mvc.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.WebPages.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.WebPages.Deployment.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\System.Web.WebPages.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Scripting.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Scripting.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Workflows.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Workflows.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Forms.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Forms.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Layouts.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Layouts.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Themes.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Themes.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.MediaLibrary.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.MediaLibrary.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\YamlDotNet.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Alias.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Alias.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Autoroute.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Autoroute.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Projections.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Projections.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Packaging.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Packaging.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.ContentTypes.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.ContentTypes.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Localization.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Localization.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Modules.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\bin\Orchard.Modules.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\obj\Debug\Orchard.Glimpse.csprojAssemblyReference.cache
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\obj\Debug\Orchard.Glimpse.csproj.CopyComplete
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\obj\Debug\Orchard.Glimpse.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Glimpse\obj\Debug\Orchard.Glimpse.pdb

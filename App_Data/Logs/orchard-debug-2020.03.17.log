@@ -1,0 +1,589 @@
+2020-03-17 10:51:23,666 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Terra' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:51:24,095 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Terra' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:51:24,098 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Terra' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:51:24,102 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Terra' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:51:24,106 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Terra' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:51:24,109 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:51:24,112 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Terra' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:51:24,121 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Terra' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:51:24,124 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Terra' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:51:24,127 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:51:24,129 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Terra' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:51:24,134 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:51:24,137 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Terra' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:51:24,141 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:57:43,725 [7] Orchard.Exceptions.DefaultExceptionPolicy - Default - ERROR An unexpected exception was caught
+Orchard.OrchardException: Select a file to upload.
+   at Orchard.Packaging.Controllers.PackagingServicesController.InstallLocally(String redirectUrl) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Packaging\Controllers\PackagingServicesController.cs:line 167
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+2020-03-17 10:58:21,504 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:21,506 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:21,509 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:21,511 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:22,404 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:22,406 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:22,409 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:22,411 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:23,014 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:23,017 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:23,019 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:23,021 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:23,690 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:23,692 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:23,694 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:23,696 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:24,357 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:24,359 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:24,361 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:24,364 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:25,064 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:25,066 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:25,068 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:25,071 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:25,670 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:25,680 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:25,684 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:25,687 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:26,367 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:26,369 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:26,372 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:26,374 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:26,933 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:26,937 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:26,939 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:26,941 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:27,657 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:27,659 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:27,661 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 10:58:27,663 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:06:51,437 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:06:51,579 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:06:51,581 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:06:51,587 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:06:52,944 [7] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 11:09:06,050 [11] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:09:06,052 [11] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:09:06,055 [11] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:09:06,057 [11] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:09:06,366 [11] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:09:06,368 [11] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:09:06,376 [11] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:09:06,380 [11] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:11:08,386 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:11:08,811 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:11:08,813 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:11:08,817 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:11:08,820 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:11:09,603 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:11:09,626 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:11:09,634 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:11:09,657 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:11:09,967 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:11:09,969 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:11:09,971 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:11:09,973 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:11:18,756 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:11:18,780 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:11:18,786 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:11:18,789 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:13:42,576 [5] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:13:42,598 [5] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:13:42,601 [5] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:13:42,603 [5] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:32:40,767 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:32:41,399 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:32:41,405 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:32:41,415 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:32:41,422 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:32:41,431 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:32:41,438 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:32:41,453 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:32:41,460 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:32:41,468 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:32:41,475 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:33:03,199 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:33:03,246 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:33:03,281 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:33:03,284 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:33:03,289 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:33:03,293 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:33:03,298 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:33:03,301 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:33:03,306 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:33:03,313 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:33:03,321 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,246 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,250 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,252 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,254 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,256 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,259 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,261 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,263 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,266 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,269 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,271 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,587 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,591 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,599 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,608 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,610 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,612 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,614 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,616 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,619 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,621 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:37:47,623 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:42:21,847 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:42:21,932 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:42:21,943 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:42:21,950 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:42:21,962 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:42:21,969 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:42:21,976 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:42:21,983 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:42:21,990 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:42:21,997 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:42:22,003 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:43:02,500 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:43:02,507 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:43:02,515 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:43:02,523 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:43:02,532 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:43:02,541 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:43:02,548 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:43:04,141 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:43:04,148 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:43:04,156 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:43:04,163 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:43:04,170 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:43:04,177 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:43:04,183 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:52:00,977 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:52:01,051 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:52:49,286 [7] Orchard.Exceptions.DefaultExceptionPolicy - Default - ERROR An unexpected exception was caught
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Orchard.Themes.Services.ThemeService.EnableThemeFeatures(String themeName) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Services\ThemeService.cs:line 88
+   at Orchard.Themes.Controllers.AdminController.Preview(String themeId, String returnUrl) in C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Themes\Controllers\AdminController.cs:line 138
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+2020-03-17 11:52:58,934 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:52:58,967 [7] Orchard.Environment.Extensions.ExtensionManager - Default - WARN No suitable loader found for extension "Terra"
+2020-03-17 11:52:59,371 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:52:59,669 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:52:59,671 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:52:59,993 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:52:59,996 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:57:27,105 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:57:27,107 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:57:27,433 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:57:27,438 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:57:53,575 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:57:54,040 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:57:54,042 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:57:54,332 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 11:57:54,335 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 12:16:17,359 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 12:16:17,406 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 12:16:17,776 [7] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 12:18:39,481 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 12:18:39,561 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 12:18:39,767 [7] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 14:37:05,875 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 14:37:05,914 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 14:37:06,110 [7] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 14:57:03,276 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 14:57:03,307 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 14:57:03,473 [8] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 15:13:50,526 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:13:50,529 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:32:52,464 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:32:52,493 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:32:52,812 [7] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 15:38:28,882 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:38:28,924 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:38:29,204 [10] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 15:46:42,710 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:46:42,758 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:46:42,940 [7] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 15:54:50,593 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:54:50,668 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:54:50,889 [7] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 15:58:47,469 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:58:47,623 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:58:47,635 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:58:47,641 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:58:47,648 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:58:47,656 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:58:47,663 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:58:47,670 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:58:53,665 [1] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 15:59:58,591 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:59:58,598 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:59:58,605 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:59:58,613 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:59:58,620 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:59:58,626 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:59:58,634 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 15:59:58,640 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:28:47,396 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:28:47,447 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:28:49,402 [8] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 16:28:56,152 [8] Orchard.Mvc.ViewEngines.ThemeAwareness.ThemeAwareViewEngine - Default - ERROR Base theme '$$BaseTheme$$' of theme 'SafarnamaTheme' not found in list of features
+2020-03-17 16:30:43,812 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:30:43,815 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:30:44,134 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:30:44,136 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:30:57,909 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:30:57,912 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:30:58,225 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:30:58,227 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:36:31,074 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:36:31,103 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:36:31,272 [9] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 16:51:14,471 [20] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:51:14,473 [20] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:56:51,389 [20] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:56:51,392 [20] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:56:51,682 [20] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:56:51,684 [20] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:59:41,147 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:59:41,252 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 16:59:41,432 [7] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 17:00:43,331 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:00:43,334 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:03:59,290 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:03:59,357 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:03:59,503 [9] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 17:04:43,110 [12] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:04:43,112 [12] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:04:43,410 [12] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:04:43,412 [12] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:14:27,226 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:14:27,267 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:14:27,572 [7] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 17:15:05,300 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:05,755 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:05,757 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:06,061 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:06,073 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:21,026 [5] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:21,501 [5] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:21,503 [5] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:21,848 [5] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:21,850 [5] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:25,536 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:25,886 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:25,889 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:26,214 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:26,216 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:38,388 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:40,655 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:40,658 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:41,143 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:15:41,145 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:04,857 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:05,281 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:05,284 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:05,593 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:05,595 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:12,600 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:13,390 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:13,396 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:13,695 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:13,697 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:25,403 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:26,202 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:26,205 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:26,521 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:26,524 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:40,147 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:40,880 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:40,882 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:41,236 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:16:41,238 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:17:06,516 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:17:06,970 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:17:06,972 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:17:07,286 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:17:07,288 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:17:28,584 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:17:29,023 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:17:29,026 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:17:29,364 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:17:29,366 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:17:57,527 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:17:58,665 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:17:58,667 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:17:59,195 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:17:59,197 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:18:27,657 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:18:28,145 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:18:28,147 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:18:28,501 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:18:28,503 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:18:39,144 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:18:40,116 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:18:40,118 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:18:40,646 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:18:40,648 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:18:58,091 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:18:58,609 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:18:58,611 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:18:58,929 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:18:58,931 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:26:39,143 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:26:39,190 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 17:26:39,652 [7] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 18:03:13,318 [16] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:03:13,320 [16] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:03:13,694 [16] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:03:13,697 [16] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:03:29,415 [12] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:03:29,418 [12] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:03:29,761 [12] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:03:29,763 [12] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:03:36,071 [16] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:03:36,074 [16] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:03:36,444 [16] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:03:36,446 [16] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:04:53,418 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:04:53,530 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:04:54,066 [7] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 18:07:27,215 [5] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:07:27,253 [5] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:07:27,518 [5] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 18:08:30,754 [5] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:08:30,756 [5] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:08:31,135 [5] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:08:31,138 [5] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,300 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,513 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,520 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,527 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,534 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,540 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,547 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,554 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,560 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,567 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,574 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,580 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,587 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,595 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,602 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,608 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,615 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,622 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,629 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,636 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:06,915 [1] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 18:10:48,214 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,214 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,230 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,230 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,245 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,245 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,245 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,261 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,261 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,276 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,276 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,292 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,292 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,308 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,308 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,323 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,323 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,323 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,339 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:10:48,339 [1] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'MyTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:13:04,144 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:13:04,175 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:13:04,178 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:13:04,183 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:13:04,186 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:13:04,190 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:13:04,196 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:13:04,199 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:13:04,224 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:13:04,228 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:13:04,237 [10] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:13:04,829 [10] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 18:16:12,245 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,249 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,251 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,254 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,257 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,262 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,266 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,270 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,273 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,276 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,279 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,647 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,649 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,651 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,653 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,655 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,657 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,660 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,662 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,666 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,668 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:16:12,670 [18] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:22:06,091 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:22:06,143 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:22:06,147 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:22:06,158 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:22:06,172 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:22:06,174 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:22:06,179 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:22:06,186 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:22:06,189 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:22:06,194 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:22:06,197 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:22:06,632 [8] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 18:23:40,061 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:23:40,098 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:23:40,101 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:23:40,108 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:23:40,111 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:23:40,114 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:23:40,120 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:23:40,123 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:23:40,129 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:23:40,133 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:23:40,136 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:23:40,435 [7] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 18:24:10,536 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,538 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,540 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,542 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,544 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,547 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,549 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,553 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,555 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,557 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,559 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,915 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,921 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,924 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,926 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,929 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,931 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,935 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,938 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,940 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,942 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:10,945 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:29,600 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:29,606 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:29,608 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:29,610 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:29,613 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:29,615 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:29,617 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:29,621 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:29,623 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:29,625 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:29,627 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:29,984 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:29,989 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:29,991 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:29,994 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:30,000 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:30,002 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:30,004 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:30,018 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:30,020 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:30,023 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:24:30,026 [8] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:27:49,514 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:27:49,591 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:27:49,597 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:27:49,601 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:27:49,604 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:27:49,608 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:27:49,611 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:27:49,615 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:27:49,619 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:27:49,621 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:27:49,624 [9] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 18:27:49,986 [9] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
+2020-03-17 18:42:06,868 [26] Orchard.Exceptions.DefaultExceptionPolicy - Default - ERROR An unexpected exception was caught
+System.Web.HttpParseException (0x80004005): The if block is missing a closing "}" character.  Make sure you have a matching "}" character for all the "{" characters within this block, and that none of the "}" characters are being interpreted as markup.
+
+   at System.Web.WebPages.Razor.RazorBuildProvider.EnsureGeneratedCode()
+   at System.Web.WebPages.Razor.RazorBuildProvider.get_CodeCompilerType()
+   at System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   at System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   at System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   at System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.HtmlHelper.RenderPartialInternal(String partialViewName, ViewDataDictionary viewData, Object model, TextWriter writer, ViewEngineCollection viewEngineCollection)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model, ViewDataDictionary viewData)
+   at System.Web.Mvc.Html.PartialExtensions.Partial(HtmlHelper htmlHelper, String partialViewName, Object model)
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.Render(ShapeDescriptor shapeDescriptor, DisplayContext displayContext, HarvestShapeInfo harvestShapeInfo, HarvestShapeHit harvestShapeHit) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 151
+   at Orchard.DisplayManagement.Descriptors.ShapeTemplateStrategy.ShapeTemplateBindingStrategy.<>c__DisplayClass20_7.<Discover>b__14(DisplayContext displayContext) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeTemplateStrategy\ShapeTemplateBindingStrategy.cs:line 133
+   at Orchard.DisplayManagement.Descriptors.ShapeAlterationBuilder.<>c__DisplayClass7_1.<BoundAs>b__1(DisplayContext displayContext) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Descriptors\ShapeAlterationBuilder.cs:line 56
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Process(ShapeBinding shapeBinding, IShape shape, DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 207
+   at Orchard.DisplayManagement.Implementation.DefaultDisplayManager.Execute(DisplayContext context) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DefaultDisplayManager.cs:line 103
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.ShapeExecute(Object shape) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 86
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.Invoke(String name, INamedEnumerable`1 parameters) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 44
+   at Orchard.DisplayManagement.Implementation.DisplayHelper.TryInvoke(InvokeBinder binder, Object[] args, Object& result) in C:\Priyanka\Orchard-dev\src\Orchard\DisplayManagement\Implementation\DisplayHelper.cs:line 29
+   at CallSite.Target(Closure , CallSite , Object , Object )
+   at Orchard.Mvc.ViewEngines.ThemeAwareness.LayoutAwareViewEngine.<>c__DisplayClass9_0.<FindView>b__0(ViewContext viewContext, TextWriter writer, IViewDataContainer viewDataContainer) in C:\Priyanka\Orchard-dev\src\Orchard\Mvc\ViewEngines\ThemeAwareness\LayoutAwareViewEngine.cs:line 63
+   at Orchard.Mvc.ViewEngines.ThemeAwareness.LayoutAwareViewEngine.LayoutView.Render(ViewContext viewContext, TextWriter writer) in C:\Priyanka\Orchard-dev\src\Orchard\Mvc\ViewEngines\ThemeAwareness\LayoutAwareViewEngine.cs:line 90
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+2020-03-17 19:06:33,176 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 19:06:33,218 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 19:06:33,223 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 19:06:33,229 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 19:06:33,232 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 19:06:33,236 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 19:06:33,239 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 19:06:33,244 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 19:06:33,247 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 19:06:33,251 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 19:06:33,256 [7] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'SafarnamaTheme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-03-17 19:06:33,602 [7] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"

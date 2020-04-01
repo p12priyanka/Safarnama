@@ -1,0 +1,162 @@
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Orchard.Azure.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Orchard.Azure.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Orchard.Azure.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Iesi.Collections.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\log4net.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Data.Edm.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Data.OData.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Data.Services.Client.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Web.Infrastructure.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Newtonsoft.Json.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\NHibernate.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Spatial.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.Helpers.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.Mvc.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.WebPages.Deployment.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.WebPages.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.WebPages.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\WindowsAzureTelemetryEvents.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\WindowsAzureEventSource.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Iesi.Collections.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\log4net.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Data.Edm.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Data.OData.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Data.Services.Client.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Newtonsoft.Json.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\NHibernate.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Spatial.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.Helpers.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.Mvc.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.WebPages.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.WebPages.Deployment.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.WebPages.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\de\Microsoft.Data.OData.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\es\Microsoft.Data.OData.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\it\Microsoft.Data.OData.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\de\System.Spatial.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\es\System.Spatial.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\fr\System.Spatial.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\it\System.Spatial.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ja\System.Spatial.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ko\System.Spatial.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ru\System.Spatial.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\zh-Hans\System.Spatial.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\zh-Hant\System.Spatial.resources.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\obj\Debug\Orchard.Azure.csprojAssemblyReference.cache
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\obj\Debug\Orchard.Azure.csproj.CopyComplete
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\obj\Debug\Orchard.Azure.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\obj\Debug\Orchard.Azure.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Orchard.Azure.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Orchard.Azure.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Orchard.Azure.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Iesi.Collections.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\log4net.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Azure.KeyVault.Core.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Data.Edm.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Data.OData.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Data.Services.Client.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Web.Infrastructure.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.WindowsAzure.Storage.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Newtonsoft.Json.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\NHibernate.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Spatial.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.Helpers.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.Mvc.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.WebPages.Deployment.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.WebPages.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.WebPages.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\WindowsAzureTelemetryEvents.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\WindowsAzureEventSource.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Iesi.Collections.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\log4net.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Azure.KeyVault.Core.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Data.Edm.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Data.OData.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.Data.Services.Client.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Microsoft.WindowsAzure.Storage.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\Newtonsoft.Json.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\NHibernate.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Spatial.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.Helpers.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.Mvc.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.WebPages.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.WebPages.Deployment.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\System.Web.WebPages.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\de\Microsoft.Data.Edm.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\es\Microsoft.Data.Edm.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\it\Microsoft.Data.Edm.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\de\Microsoft.Data.OData.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\es\Microsoft.Data.OData.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\fr\Microsoft.Data.OData.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\it\Microsoft.Data.OData.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ja\Microsoft.Data.OData.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ko\Microsoft.Data.OData.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ru\Microsoft.Data.OData.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\de\Microsoft.Data.Services.Client.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\es\Microsoft.Data.Services.Client.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\fr\Microsoft.Data.Services.Client.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\it\Microsoft.Data.Services.Client.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ja\Microsoft.Data.Services.Client.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ko\Microsoft.Data.Services.Client.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ru\Microsoft.Data.Services.Client.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\de\System.Spatial.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\es\System.Spatial.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\fr\System.Spatial.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\it\System.Spatial.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ja\System.Spatial.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ko\System.Spatial.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\ru\System.Spatial.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\zh-Hans\System.Spatial.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\bin\zh-Hant\System.Spatial.resources.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\obj\Debug\Orchard.Azure.csprojAssemblyReference.cache
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\obj\Debug\Orchard.Azure.csproj.CopyComplete
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\obj\Debug\Orchard.Azure.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Azure\obj\Debug\Orchard.Azure.pdb

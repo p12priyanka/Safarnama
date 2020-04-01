@@ -1,0 +1,144 @@
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Tags.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Tags.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Tags.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Iesi.Collections.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Microsoft.Web.Infrastructure.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\NHibernate.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Autoroute.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Widgets.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.Helpers.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.Mvc.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.WebPages.Deployment.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.WebPages.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.WebPages.Razor.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Alias.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Tokens.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.ContentTypes.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Scripting.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Conditions.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Layouts.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Themes.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.MediaLibrary.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\YamlDotNet.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Projections.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Packaging.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Localization.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\NuGet.Core.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Modules.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\MSTranslitTools.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Autoroute.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Autoroute.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Widgets.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Widgets.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Iesi.Collections.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\NHibernate.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.Helpers.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.Mvc.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.WebPages.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.WebPages.Deployment.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.WebPages.Razor.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Alias.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Alias.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Tokens.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Tokens.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.ContentTypes.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.ContentTypes.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Scripting.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Scripting.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Conditions.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Conditions.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Layouts.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Layouts.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Themes.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Themes.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.MediaLibrary.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.MediaLibrary.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\YamlDotNet.xml
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Projections.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Projections.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Packaging.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Packaging.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Localization.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Localization.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Modules.pdb
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Modules.dll.config
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\obj\Debug\Orchard.Tags.csprojAssemblyReference.cache
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\obj\Debug\Orchard.Tags.csproj.CopyComplete
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\obj\Debug\Orchard.Tags.dll
+C:\Priyanka\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\obj\Debug\Orchard.Tags.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Tags.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Tags.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Tags.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Iesi.Collections.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Microsoft.Web.Infrastructure.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\NHibernate.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Autoroute.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Widgets.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.Helpers.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.Mvc.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.WebPages.Deployment.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.WebPages.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.WebPages.Razor.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Alias.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Tokens.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.ContentTypes.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Scripting.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Conditions.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Layouts.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Themes.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.MediaLibrary.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\YamlDotNet.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Projections.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Packaging.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Localization.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\NuGet.Core.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Modules.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\MSTranslitTools.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Autoroute.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Autoroute.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Widgets.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Widgets.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Iesi.Collections.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\NHibernate.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.Helpers.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.Mvc.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.WebPages.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.WebPages.Deployment.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\System.Web.WebPages.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Alias.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Alias.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Tokens.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Tokens.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.ContentTypes.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.ContentTypes.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Scripting.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Scripting.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Conditions.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Conditions.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Layouts.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Layouts.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Themes.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Themes.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.MediaLibrary.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.MediaLibrary.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\YamlDotNet.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Projections.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Projections.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Packaging.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Packaging.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Localization.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Localization.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Modules.pdb
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\bin\Orchard.Modules.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\obj\Debug\Orchard.Tags.csprojAssemblyReference.cache
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\obj\Debug\Orchard.Tags.csproj.CopyComplete
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\obj\Debug\Orchard.Tags.dll
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Tags\obj\Debug\Orchard.Tags.pdb

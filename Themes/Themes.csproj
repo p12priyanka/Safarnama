@@ -1,0 +1,575 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CB70A642-8CEC-4DDE-8C9F-AD08900EC98D}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Themes</RootNamespace>
+    <AssemblyName>Themes</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkProfile />
+    <UseIISExpress>false</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <Use64BitIISExpress />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>latest</LangVersion>
+    <CodeAnalysisRuleSet>..\..\OrchardBasicCorrectness.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>latest</LangVersion>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=2.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.AspNet.Razor.3.2.3\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SafarnamaTheme\Assets.json" />
+    <Content Include="SafarnamaTheme\Assets\Styles.less" />
+    <Content Include="SafarnamaTheme\Content\Images\accordion-plus-white.png" />
+    <Content Include="SafarnamaTheme\Content\Images\accordion-plus.png" />
+    <Content Include="SafarnamaTheme\Content\Images\arrow-submenu.png" />
+    <Content Include="SafarnamaTheme\Content\Images\bg.transp.tile-wavecut.png" />
+    <Content Include="SafarnamaTheme\Content\Images\cart.png" />
+    <Content Include="SafarnamaTheme\Content\Images\deal3.jpg" />
+    <Content Include="SafarnamaTheme\Content\Images\deal5.jpg" />
+    <Content Include="SafarnamaTheme\Content\Images\detailslider4.jpg" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\af-ZA.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-AE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-az-cyrl.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-az-latn.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-BH.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-DZ.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-EG.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-IQ.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-JO.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-KW.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-LB.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-LY.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-MA.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-OM.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-QA.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-SA.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-SY.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-TN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ar-YE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\arn-CL.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\as-IN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\az-AZ-Cyrl.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\az-AZ-Latn.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\az-Cyrl-AZ.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\az-Latn-AZ.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ba-RU.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\be-BY.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\bg-BG.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\bn-IN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\bo-CN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\br-FR.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ca-ES.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\co-FR.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\cs-CZ.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\cy-GB.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\da-DK.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\de-AT.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\de-CH.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\de-DE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\de-LI.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\de-LU.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\div-MV.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\dsb-DE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\dv-MV.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\el-GR.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\en-AU.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\en-BZ.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\en-CA.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\en-CB.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\en-GB.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\en-IE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\en-IN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\en-JM.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\en-MY.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\en-NZ.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\en-PH.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\en-TT.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\en-US.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\en-ZA.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\en-ZW.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-AR.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-BO.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-CL.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-CO.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-CR.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-DO.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-EC.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-ES.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-GT.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-HN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-MX.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-NI.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-PA.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-PE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-PR.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-PY.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-SV.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-US.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-UY.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\es-VE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\et-EE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\eu-ES.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\fa-IR.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\fi-FI.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\fo-FO.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\fr-BE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\fr-CA.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\fr-CH.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\fr-FR.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\fr-LU.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\fr-MC.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\fy-NL.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ga-IE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\gd-GB.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\gl-ES.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\gsw-FR.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\gu-IN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\he-IL.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\hi-IN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\hr-HR.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\hsb-DE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\hu-HU.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\hy-AM.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\id-ID.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ii-CN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\is-IS.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\it-CH.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\it-IT.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\iu-Cans-CA.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\iu-Latn-CA.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ja-JP.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ka-GE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\kk-KZ.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\kn-IN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ko-KR.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\kok-IN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ky-KG.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\lb-LU.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\lt-LT.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\lv-LV.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\mi-NZ.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\mk-MK.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ml-IN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\mn-MN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\mn-Mong-CN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\moh-CA.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\mr-IN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ms-BN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ms-MY.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\nb-NO.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\nl-BE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\nl-NL.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\nn-NO.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\nso-ZA.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\oc-FR.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\or-IN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\pa-IN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\pl-PL.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\pt-BR.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\pt-PT.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\quz-BO.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\quz-EC.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\quz-PE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\rm-CH.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ro-RO.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ru-RU.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\sa-IN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\sah-RU.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\se-FI.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\se-NO.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\se-SE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\sk-SK.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\sl-SI.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\sma-NO.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\sma-SE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\smj-NO.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\smj-SE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\smn-FI.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\sms-FI.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\sq-AL.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\sv-FI.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\sv-SE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\sw-KE.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\syr-SY.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ta-IN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\te-IN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\th-TH.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\tn-ZA.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\tr-TR.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\tt-RU.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\tzm-Latn-DZ.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ug-CN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\uk-UA.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\ur-PK.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\uz-Cyrl-UZ.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\uz-Latn-UZ.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\uz-UZ-Cyrl.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\uz-UZ-Latn.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\vi-VN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\xh-ZA.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\zh-CHS.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\zh-CHT.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\zh-CN.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\zh-HK.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\zh-MO.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\zh-SG.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\zh-TW.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\flags\zu-ZA.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\header-aux.png" />
+    <Content Include="SafarnamaTheme\Content\Images\hinapamnani.jpg" />
+    <Content Include="SafarnamaTheme\Content\Images\insta1.jpg" />
+    <Content Include="SafarnamaTheme\Content\Images\insta2.jpg" />
+    <Content Include="SafarnamaTheme\Content\Images\insta3.jpg" />
+    <Content Include="SafarnamaTheme\Content\Images\insta4.jpg" />
+    <Content Include="SafarnamaTheme\Content\Images\insta5.jpg" />
+    <Content Include="SafarnamaTheme\Content\Images\insta6.jpg" />
+    <Content Include="SafarnamaTheme\Content\Images\insta7.jpg" />
+    <Content Include="SafarnamaTheme\Content\Images\insta8.jpg" />
+    <Content Include="SafarnamaTheme\Content\Images\insta9.jpg" />
+    <Content Include="SafarnamaTheme\Content\Images\loader.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\logo.png" />
+    <Content Include="SafarnamaTheme\Content\Images\logo1.png" />
+    <Content Include="SafarnamaTheme\Content\Images\mount.png" />
+    <Content Include="SafarnamaTheme\Content\Images\saf-run-icon.png" />
+    <Content Include="SafarnamaTheme\Content\Images\Safarnama-01.png" />
+    <Content Include="SafarnamaTheme\Content\Images\Safarnama-white.png" />
+    <Content Include="SafarnamaTheme\Content\Images\sale1.jpg" />
+    <Content Include="SafarnamaTheme\Content\Images\search.gif" />
+    <Content Include="SafarnamaTheme\Content\Images\search.png" />
+    <Content Include="SafarnamaTheme\Content\Images\slider\slider1.jpg" />
+    <Content Include="SafarnamaTheme\Content\Images\slider\slider2.jpg" />
+    <Content Include="SafarnamaTheme\Content\Images\slider\slider3.jpg" />
+    <Content Include="SafarnamaTheme\Content\Web.config" />
+    <Content Include="SafarnamaTheme\Scripts\BindMENU.js" />
+    <Content Include="SafarnamaTheme\Scripts\bootstrap.min.js" />
+    <Content Include="SafarnamaTheme\Scripts\fix-responsive-WP8.js" />
+    <Content Include="SafarnamaTheme\Scripts\fix-search-ie8.js" />
+    <Content Include="SafarnamaTheme\Scripts\html5shiv.js" />
+    <Content Include="SafarnamaTheme\Scripts\jquery-3.2.1.min.js" />
+    <Content Include="SafarnamaTheme\Scripts\jquery.min.js" />
+    <Content Include="SafarnamaTheme\Scripts\jquery.nivo.slider.pack.js" />
+    <Content Include="SafarnamaTheme\Scripts\main-1.js" />
+    <Content Include="SafarnamaTheme\Scripts\main.js" />
+    <Content Include="SafarnamaTheme\Scripts\plugin.js" />
+    <Content Include="SafarnamaTheme\Scripts\preloader.js" />
+    <Content Include="SafarnamaTheme\Scripts\respond.min.js" />
+    <Content Include="SafarnamaTheme\Scripts\Web.config" />
+    <Content Include="SafarnamaTheme\Styles\C00_Clean.html" />
+    <Content Include="SafarnamaTheme\Styles\C00_CleanWPadding.html" />
+    <Content Include="SafarnamaTheme\Styles\C01.html" />
+    <Content Include="SafarnamaTheme\Styles\C02.html" />
+    <Content Include="SafarnamaTheme\Styles\C03.html" />
+    <Content Include="SafarnamaTheme\Styles\C04.html" />
+    <Content Include="SafarnamaTheme\Styles\css\bootstrap.min.css" />
+    <Content Include="SafarnamaTheme\Styles\css\flight.css" />
+    <Content Include="SafarnamaTheme\Styles\css\font-awesome.min.css" />
+    <Content Include="SafarnamaTheme\Styles\css\mobile-megamenu.css" />
+    <Content Include="SafarnamaTheme\Styles\css\mobile-select.css" />
+    <Content Include="SafarnamaTheme\Styles\css\mobile-toggle.css" />
+    <Content Include="SafarnamaTheme\Styles\css\plugin.css" />
+    <Content Include="SafarnamaTheme\Styles\css\style.css" />
+    <Content Include="SafarnamaTheme\Styles\css\update.css" />
+    <Content Include="SafarnamaTheme\Styles\css\we-are-hiring.css" />
+    <Content Include="SafarnamaTheme\Styles\fonts\flaticon.css" />
+    <Content Include="SafarnamaTheme\Styles\fonts\Flaticon.woff" />
+    <Content Include="SafarnamaTheme\Styles\fonts\fontawesome-webfont.eot" />
+    <Content Include="SafarnamaTheme\Styles\fonts\fontawesome-webfont.svg" />
+    <Content Include="SafarnamaTheme\Styles\fonts\fontawesome-webfont.ttf" />
+    <Content Include="SafarnamaTheme\Styles\fonts\fontawesome-webfont.woff" />
+    <Content Include="SafarnamaTheme\Styles\fonts\FontAwesome.otf" />
+    <Content Include="SafarnamaTheme\Styles\site.css" />
+    <Content Include="SafarnamaTheme\Styles\site.uncompressed.css" />
+    <Content Include="SafarnamaTheme\Styles\Web.config" />
+    <Content Include="SafarnamaTheme\Web.config" />
+    <Content Include="SafarnamaTheme\Theme.txt" />
+    <Content Include="SafarnamaTheme\Theme.png" />
+    <Content Include="SafarnamaTheme\Placement.info" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DisplayTheme\Assets.json" />
+    <Content Include="DisplayTheme\Assets\Styles.less" />
+    <Content Include="DisplayTheme\Styles\Site.css" />
+    <Content Include="DisplayTheme\Styles\Styles.css" />
+    <Content Include="DisplayTheme\Styles\Styles.min.css" />
+    <Content Include="DisplayTheme\Web.config" />
+    <Content Include="DisplayTheme\Scripts\Web.config" />
+    <Content Include="DisplayTheme\Styles\Web.config" />
+    <Content Include="DisplayTheme\Content\Web.config" />
+    <Content Include="DisplayTheme\Theme.txt" />
+    <Content Include="DisplayTheme\Theme.png" />
+    <Content Include="DisplayTheme\Placement.info" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MyTheme\Content\Images\loader.gif" />
+    <Content Include="MyTheme\Content\Images\logo1.png" />
+    <Content Include="MyTheme\Content\Images\saf-run-icon.png" />
+    <Content Include="MyTheme\Content\Images\Safarnama-01.png" />
+    <Content Include="MyTheme\Content\Images\Safarnama-white.png" />
+    <Content Include="MyTheme\Scripts\bootstrap.min.js" />
+    <Content Include="MyTheme\Scripts\jquery-3.2.1.min.js" />
+    <Content Include="MyTheme\Scripts\main-1.js" />
+    <Content Include="MyTheme\Scripts\main.js" />
+    <Content Include="MyTheme\Scripts\plugin.js" />
+    <Content Include="MyTheme\Scripts\preloader.js" />
+    <Content Include="MyTheme\Styles\css\bootstrap.min.css" />
+    <Content Include="MyTheme\Styles\css\flight.css" />
+    <Content Include="MyTheme\Styles\css\plugin.css" />
+    <Content Include="MyTheme\Styles\css\style.css" />
+    <Content Include="MyTheme\Styles\css\update.css" />
+    <Content Include="MyTheme\Styles\css\we-are-hiring.css" />
+    <Content Include="MyTheme\Styles\default-grid.css" />
+    <Content Include="MyTheme\Styles\fonts\flaticon.css" />
+    <Content Include="MyTheme\Styles\Site.css" />
+    <Content Include="MyTheme\Styles\Styles.css" />
+    <Content Include="MyTheme\Styles\Styles.min.css" />
+    <Content Include="MyTheme\Theme.png" />
+    <Content Include="MyTheme\Theme.txt" />
+    <Content Include="TheAdmin\Scripts\admin.js" />
+    <Content Include="TheAdmin\Styles\ie.css" />
+    <Content Include="TheAdmin\Styles\ie7.css" />
+    <Content Include="TheAdmin\Styles\ie8.css" />
+    <Content Include="TheAdmin\Styles\images\adminNavBackground.gif" />
+    <Content Include="TheAdmin\Styles\images\error.gif" />
+    <Content Include="TheAdmin\Styles\images\icon-advisory.png" />
+    <Content Include="TheAdmin\Styles\images\icon-contribute.png" />
+    <Content Include="TheAdmin\Styles\images\icon-docs.png" />
+    <Content Include="TheAdmin\Styles\images\icon-friends.png" />
+    <Content Include="TheAdmin\Styles\images\icon-gallery.png" />
+    <Content Include="TheAdmin\Styles\images\icon-settings.png" />
+    <Content Include="TheAdmin\Styles\images\info.gif" />
+    <Content Include="TheAdmin\Styles\images\menu-closed.png" />
+    <Content Include="TheAdmin\Styles\images\menu-default.png" />
+    <Content Include="TheAdmin\Styles\images\menu-glyph.png" />
+    <Content Include="TheAdmin\Styles\images\menu-open.png" />
+    <Content Include="TheAdmin\Styles\images\menuClosed.gif" />
+    <Content Include="TheAdmin\Styles\images\menuClosedHover.gif" />
+    <Content Include="TheAdmin\Styles\images\menuOpen.gif" />
+    <Content Include="TheAdmin\Styles\images\menuOpenHover.gif" />
+    <Content Include="TheAdmin\Styles\images\vinesBackgroundBottom.gif" />
+    <Content Include="TheAdmin\Styles\images\menu-filter.png" />
+    <Content Include="TheThemeMachine\Styles\default-grid.css" />
+    <Content Include="TheThemeMachine\Styles\Site.css" />
+    <Content Include="TheThemeMachine\Theme.png" />
+    <Content Include="TheThemeMachine\Theme.txt" />
+    <Content Include="SafeMode\Content\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="SafeMode\Styles\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="TheAdmin\Views\Pager.cshtml" />
+    <Content Include="TheAdmin\Views\OrchardVersion.cshtml" />
+    <Content Include="TheThemeMachine\ThemeZonePreview.png" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="TheAdmin\Views\Menu.cshtml" />
+    <Content Include="TheThemeMachine\Views\Branding.cshtml" />
+    <Content Include="TheThemeMachine\Views\BadgeOfHonor.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TheAdmin\Styles\images\icons.png" />
+    <Content Include="TheAdmin\Styles\images\tableHeaderBackgroundRed.gif" />
+    <Content Include="TheAdmin\Styles\site.css" />
+    <Content Include="TheAdmin\Theme.txt" />
+    <Content Include="TheAdmin\Views\Layout.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TheAdmin\Styles\images\icons.psd" />
+    <Content Include="SafeMode\Content\orchard.ico" />
+    <Content Include="SafeMode\Styles\ie6.css" />
+    <Content Include="SafeMode\Styles\images\backgroundHeader.gif" />
+    <Content Include="SafeMode\Styles\images\backgroundVines.gif" />
+    <Content Include="SafeMode\Styles\images\orchardLogo.gif" />
+    <Content Include="SafeMode\Styles\site.css" />
+    <Content Include="SafeMode\Theme.png" />
+    <Content Include="SafeMode\Theme.txt" />
+    <Content Include="SafeMode\Views\Layout.cshtml" />
+    <Content Include="TheAdmin\Styles\images\backgroundGradient.gif" />
+    <Content Include="TheAdmin\Styles\images\backgroundHeader.gif" />
+    <Content Include="TheAdmin\Styles\images\orchardLogo.gif" />
+    <Content Include="TheAdmin\Theme.png" />
+    <Content Include="TheAdmin\Views\User.cshtml" />
+    <Content Include="TheAdmin\Views\Header.cshtml" />
+    <Content Include="TheThemeMachine\Views\Layout.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TheThemeMachine\Styles\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TheAdmin\Scripts\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TheAdmin\Styles\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TheThemeMachine\Placement.info" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TheAdmin\Views\LocalMenu.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TheAdmin\Views\Title.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Orchard\Orchard.Framework.csproj">
+      <Project>{2D1D92BB-4555-4CBE-8D0E-63563D6CE4C6}</Project>
+      <Name>Orchard.Framework</Name>
+      <Private>$(MvcBuildViews)</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Modules\Orchard.Layouts\Orchard.Layouts.csproj">
+      <Project>{6bd8b2fa-f2e3-4ac8-a4c3-2925a653889a}</Project>
+      <Name>Orchard.Layouts</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TheThemeMachine\Views\Pager.cshtml" />
+    <Content Include="TheThemeMachine\Views\Pager.First.cshtml" />
+    <Content Include="TheThemeMachine\Views\Pager.Last.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TheAdmin\Views\ErrorPage.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TheAdmin\Views\AdminCultureSelector.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MyTheme\Assets.json" />
+    <Content Include="MyTheme\Assets\Styles.less" />
+    <Content Include="MyTheme\Content\Web.config" />
+    <Content Include="MyTheme\Placement.info" />
+    <Content Include="MyTheme\Scripts\Web.config" />
+    <Content Include="MyTheme\Styles\Web.config" />
+    <Content Include="MyTheme\Web.config" />
+    <Content Include="MyTheme\Views\Layout.cshtml" />
+    <Content Include="MyTheme\Styles\fonts\Flaticon.woff" />
+    <Content Include="MyTheme\Views\Branding.cshtml" />
+    <Content Include="DisplayTheme\Views\Layout.cshtml" />
+    <Content Include="DisplayTheme\Views\Blog.cshtml" />
+    <None Include="packages.config" />
+    <Content Include="SafarnamaTheme\Views\Layout-HomePage.cshtml" />
+    <Content Include="SafarnamaTheme\Views\Widget.Wrapper.cshtml" />
+    <Content Include="SafarnamaTheme\Views\Home.cshtml" />
+    <Content Include="SafarnamaTheme\Views\Layout.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DisplayTheme\Views\Default\" />
+    <Folder Include="SafarnamaTheme\Views\Shared\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target> -->
+  <Target Name="AfterBuild" DependsOnTargets="AfterBuildCompiler">
+    <PropertyGroup>
+      <AreasManifestDir>$(ProjectDir)\..\Manifests</AreasManifestDir>
+    </PropertyGroup>
+  </Target>
+  <Target Name="AfterBuildCompiler" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(ProjectDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>False</AutoAssignPort>
+          <DevelopmentServerPort>30320</DevelopmentServerPort>
+          <DevelopmentServerVPath>/OrchardLocal</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>True</UseCustomServer>
+          <CustomServerUrl>https://github.com/OrchardCMS/Orchard</CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
