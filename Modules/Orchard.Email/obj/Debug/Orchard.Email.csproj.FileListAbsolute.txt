@@ -59,6 +59,7 @@ E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Email\bin\System.Web.WebPages.Razor.xml
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Email\bin\Orchard.Tokens.pdb
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Email\bin\Orchard.Tokens.dll.config
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Email\obj\Debug\Orchard.Email.csprojAssemblyReference.cache
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Email\obj\Debug\Orchard.Email.csproj.CopyComplete
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Email\obj\Debug\Orchard.Email.dll
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Email\obj\Debug\Orchard.Email.pdb

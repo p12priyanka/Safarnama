@@ -121,7 +121,6 @@ E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Orchard.Tokens.dll.config
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\System.Net.Http.Formatting.xml
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\bin\Iesi.Collections.xml
-E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\obj\Debug\Orchard.JobsQueue.csprojAssemblyReference.cache
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\obj\Debug\Orchard.JobsQueue.csproj.CopyComplete
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\obj\Debug\Orchard.JobsQueue.dll
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.JobsQueue\obj\Debug\Orchard.JobsQueue.pdb

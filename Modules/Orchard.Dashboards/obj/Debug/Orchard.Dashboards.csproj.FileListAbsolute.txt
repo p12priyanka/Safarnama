@@ -37,6 +37,7 @@ E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Dashboards\bin\System.Web.WebPages.xml
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Dashboards\bin\System.Web.WebPages.Deployment.xml
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Dashboards\bin\System.Web.WebPages.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Dashboards\obj\Debug\Orchard.Dashboards.csprojAssemblyReference.cache
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Dashboards\obj\Debug\Orchard.Dashboards.csproj.CopyComplete
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Dashboards\obj\Debug\Orchard.Dashboards.dll
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.Dashboards\obj\Debug\Orchard.Dashboards.pdb

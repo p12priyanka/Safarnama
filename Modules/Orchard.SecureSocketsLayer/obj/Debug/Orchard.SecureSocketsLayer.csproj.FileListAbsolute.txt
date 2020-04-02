@@ -44,6 +44,7 @@ E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\bin\System.Web.WebPages.xml
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\bin\System.Web.WebPages.Deployment.xml
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\bin\System.Web.WebPages.Razor.xml
+E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\obj\Debug\Orchard.SecureSocketsLayer.csprojAssemblyReference.cache
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\obj\Debug\Orchard.SecureSocketsLayer.csproj.CopyComplete
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\obj\Debug\Orchard.SecureSocketsLayer.dll
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.SecureSocketsLayer\obj\Debug\Orchard.SecureSocketsLayer.pdb

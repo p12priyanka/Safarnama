@@ -41,7 +41,6 @@ E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.OutputCache\bin\System.Web.WebPages.xml
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.OutputCache\bin\System.Web.WebPages.Deployment.xml
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.OutputCache\bin\System.Web.WebPages.Razor.xml
-E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.OutputCache\obj\Debug\Orchard.OutputCache.csprojAssemblyReference.cache
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.OutputCache\obj\Debug\Orchard.OutputCache.csproj.CopyComplete
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.OutputCache\obj\Debug\Orchard.OutputCache.dll
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.OutputCache\obj\Debug\Orchard.OutputCache.pdb

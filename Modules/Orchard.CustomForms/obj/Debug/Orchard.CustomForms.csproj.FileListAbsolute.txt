@@ -58,4 +58,3 @@ E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.CustomForms\obj\Debug\Orchard.CustomForms.csproj.CopyComplete
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.CustomForms\obj\Debug\Orchard.CustomForms.dll
 E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.CustomForms\obj\Debug\Orchard.CustomForms.pdb
-E:\priyanka\New Project\Orchard-dev\Orchard-dev\src\Orchard.Web\Modules\Orchard.CustomForms\obj\Debug\Orchard.CustomForms.csprojAssemblyReference.cache

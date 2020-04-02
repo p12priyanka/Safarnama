@@ -1,0 +1,3 @@
+2020-04-02 09:54:41,462 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-04-02 09:54:41,493 [6] Orchard.Environment.ShellBuilders.CompositionStrategy - (null) - WARN Identified 'Safarnama.Theme' as an orphaned feature state record in Settings_ShellFeatureRecord.
+2020-04-02 09:54:42,865 [6] Orchard.Environment.Extensions.ExtensionManager - (null) - WARN No suitable loader found for extension "Terra"
