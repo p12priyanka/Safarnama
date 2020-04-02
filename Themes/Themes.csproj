@@ -530,6 +530,7 @@
     <Content Include="SafarnamaTheme\Views\Widget.Wrapper.cshtml" />
     <Content Include="SafarnamaTheme\Views\Home.cshtml" />
     <Content Include="SafarnamaTheme\Views\Layout.cshtml" />
+    <Content Include="SafarnamaTheme\Views\Blog.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DisplayTheme\Views\Default\" />
